@@ -1,0 +1,446 @@
+[00:00:00]
+Welcome. My name is Amin Saberi and I'm an associate professor here at Stanford University. I'm the director and co-creator of Venture Lab. It's a great pleasure to have Heidi Roizen as our guest. Venture Lab director Heidi has spent her life immersed in Silicon Valley ecosystem. In 1983, she co-founded a company and served as the CEO until it was acquired.
+
+[00:00:29]
+She joined Apple as vice president went to the venture capital world where she's a partner at DFJ. She's also a Fenwick and West Entrepreneurship Educator at Stanford, member of board of several companies member of Board of Directors of several companies, including TiVo. Thank you very much for joining us.
+
+[00:00:54]
+
+>> Thanks for having me.
+>> As you know, we have over 37,000 students on Venture Lab who.
+>> That's amazing
+>> Who have signed up to learn about technology entrepreneurship. They have formed teams and are working on their start-up ideas. A few days ago, I started a thread on the forum, and asked students to post questions for you.
+
+[00:01:14]
+
+>> Mm-hm.
+>> We got a ton of them.
+>> I saw, I saw. Thank you, everybody. I saw lots of questions. [LAUGH]
+>> Yeah, and we selected a few and I did a few.
+>> Great.
+>> So you're both CEO.
+>> Yes.
+>> Vice president.
+>> Mm-hm.
+>> [INAUDIBLE] you're, you're a professor here.
+
+[00:01:33]
+Member of boards of companies, what keeps bringing you back?
+>> [LAUGH] I love working with really smart people who are doing really interesting things. And I've had the good fortune in my career to see it from all sides, you know? I was an entrepreneur myself. Working in a software company and got to build that.
+
+[00:01:55]
+Then I got to be a VP at Apple and see if from sort of more the corporate perspective. Then I got to be a venture capitalist, see it from the investor perspective. And now I get to see it as both as a public company director which is a different perspective.
+
+[00:02:07]
+
+>> [INAUDIBLE]
+>> As well. As now an educator of the next generation of entrepreneurs. So I feel like I, I really get to see it from every place, and what keeps me coming back is, every one of those different places, I'm, I'm dealing with really different people who are taking on different sorts of challenges.
+
+[00:02:24]
+So students here, it's really fun to be with students. They're very bright, eager. They don't know their limitations. They have all sorts of great new ideas and they are very facile with technologies that are native to them, that aren't necessarily native to a person my age. It sounds like an old lady but definitely there is a, a technology generational issue.
+
+[00:02:45]
+At the other end of the spectrum, when I am dealing with some of my larger public companies. It's very interesting to tackle big problems, right? You.
+>> Right.
+>> If you, when you have, you know, hundreds of millions of dollars in the bank and you're thinking about what to do with that to move the ball forward, so I really like having that balance and that's what keeps me coming back.
+
+[00:03:02]
+
+>> I see, that's, that's wonderful, So, I'm sure there are, you have a lot of successful stories to, to tell us.
+>> And even more failure stories. [LAUGH]
+>> Right. So we'd like to hear of one of those. [CROSSTALK]
+>> [LAUGH] Oh, God. I have so many, you're gonna start right off with failure stories?
+
+[00:03:20]
+Well I mean I think that, that's, that's the thing and, and that's something that, certainly we emphasize here in our entrepreneurship courses is that in order to have success, success is usually preceded by a, a failure. And a lot of failure. And I've had plenty of failures. I've had companies that haven't been able to raise money.
+
+[00:03:37]
+I've had investments that haven't been successful. I've had products that didn't work. I've had employees that didn't work out. I had to fire my own mother,
+>> Oh, wow.
+>> Yeah. [LAUGH] [CROSSTALK]
+>> That was very difficult. My brother and I started our company together and, and we decided to go our different ways after a few years.
+
+[00:03:56]
+And, we had to figure out how to split the company back up again. So, I've had plenty of failure, and the thing, I think, that's interesting about failure is it's important. There are two things that are important about failure. One is that you learn from it. Right. Failure is an opportunity to learn something and the second thing is that you move on from it.
+
+[00:04:15]
+And, you forgive yourself and you say, okay, I failed, it happened, here's what I can learn from it, now I'm gonna move on. And you don't keep reliving your failures, and I think that that is something that I see people do, either they, they don't take the learning experience away, which makes the failure meaningless.
+
+[00:04:32]
+Or, and they don't forgive themselves and move on, and then they're just, they're just weighted down by all those failures, and they're afraid to make another step, because if they make another step, what if they fail? But if you don't make that step, you're not going to succeed either.
+
+[00:04:46]
+So I'm, you know, I'm proud of my failures. I don't necessarily wanna have them all hanging on my wall, but I'm, but they're okay. I'm okay with it.
+>> I see so actually this question of co-founder.
+>> Mm-hm.
+>> You know, how you choose them, what kind of people you choose as a co-founder,
+>> Mm-hm.
+
+[00:05:01]
+
+>> Has come up quite a bit.
+>> Mm-hm.
+>> Now so one, we had one question you know, how is it to start a company with your you know, relatives, with your family?
+>> Right, with your family. And then on the other end of the spectrum we have teams that are quite international.
+
+[00:05:16]
+
+>> Right.
+>> That are in different parts of the country or different parts of the world.
+>> Right.
+>> How do you make something happen? [CROSSTALK]
+>> So let's talk about family.
+>> Alright.
+>> And then let's talk about disparate team. Family, particularly in different types of businesses and different culture is a very strong foundation for a company.
+
+[00:05:32]
+And I think in my own situation, what was great about family is you know the other person. You trust the other person. You speak the same language. I mean, not just that we speak English.
+>> Okay.
+>> But you understand each other. You know where each other's coming from.
+
+[00:05:47]
+And you know each other's skill sets, or at least you sort of do.
+>> Right.
+>> Because of course you go to work and you're testing different skill sets. I think that, that makes family very powerful and I've see a lot of relationships where families work together and it can be very successful.
+
+[00:06:02]
+The issue with family, and I think particularly as we've also talked about i, in my class, husband and wife teams, is families need to be sort of balanced and equal in power. Where, in companies there's normally a hierarchy, and only one person gets to be the CEO. And so, I think the challenge in a family situation is when there's not a clear delineation of who's doing what, and how to separate your family life from your work life.
+
+[00:06:28]
+I also think what's difficult in a family situation, particularly when it's a spouse situation. Is, the nice thing about having partners is one of you might be going through something difficult, and the other one picks up the ball and runs with it. So, I may have a death in my family, but you're my partner, you keep working while I deal with my issues, I come back.
+
+[00:06:47]
+You break up with your girlfriend, I cover things while you deal with your issues, and it works. In a family situation, very often. You either, at a minimum you share each others problems, and sometimes you cause each other problems. [LAUGH] And, so that makes it ver, I think, very difficult.
+
+[00:07:02]
+So I mean, on the whole I'm very thankful that I started the company with my brother, I have deep respect for my brother, he's a fantastic programmer, he was the creator of the product, the company wouldn't exist without him But I think that the flip sides is, we split the company after a number of years, because he and I wanted to go in different directions.
+
+[00:07:20]
+And so that was difficult, but we're, you know, we're very good friends. And we're still family, and we're friends. But with respect to, disparate, you know, organizations, I think that is. One of the coolest things that is happening now because of technology. Technology really enables us to build companies and carry on relationships having ubiquitous communication, having asynchronous and synchronous, having Face, having FaceTime, having Skype, having all of these ways, having ability to share documents and share things online.
+
+[00:07:52]
+And I think that. That makes it far more fluid and far more capable for people who are not in the same geography to share things and I'm really excited about that. I think that the challenge is, there are things you do when you're in a room together. There's body language.
+
+[00:08:13]
+There's the opportunity to have Downtime together. There's, you know, there are things that you do to get to know another person that you would do if you were in physical proximity to them that you can't do. Number one, if, I mean if you're just communicating. And the second thing is, I'll call it serendipity.
+
+[00:08:30]
+Serendipity will happen because I happen to go to an event Where other people from Silicon Valley are at the same event for example. So, part of the power of Silicon Valley, V, Valley is there are lot of people here who are working on the same sorts of things, and you run into each other.
+
+[00:08:46]
+That doesn't happen so much so, yet. In a, in a, in a technology based environment, right? It's starting to, you can see sort of chat and, and,and you know, and all these new things that people are doing, they try to re-create but it's, it's very hard to create, it's very heard to have a cocktail party in, on three different continent simultaneously with skype up, although I have seen people try.
+
+[00:09:12]
+[INAUDIBLE] [LAUGH] So I think still think there are pros and cons and, and I guess my, my immediate solution for people is sometimes you have to get on airplanes and go other places. I think once you form a relationship, then you can great work relationship without seeing a person very often.
+
+[00:09:29]
+I think once you build that bond, you can go. I mean, I know people that I work with that I've gone for years without seeing, right? And we have communication in various other forms and we already have that short hand of, of friendship and communication that we don't need to necessary be sitting in the same room.
+
+[00:09:45]
+
+>> Have you started it when you were together so you have some, [INAUDIBLE].
+>> For me, it's been a lot easier to start things. Together, and or at least when I realize that I'm going to be having a significant business relationship with someone that I will take the time to go and see them.
+
+[00:10:01]
+And I still get on airplanes and go to meetings. I'm, I'm I'm on a board of a company based in London and I, I go over to London four times a year. Why do I go to London? I could certainly be on Skype and you know, whatever, right?
+
+[00:10:16]
+I go because there're things that happen in a face to face situation that just don't happen if you're not physically there.
+>> And London's always nice too [INAUDIBLE].
+>> If you got to go somewhere, London is not bad.
+>> Yeah. So that's actually another question that I wanted to ask you about starting a company outside the hotspots like Silicon Valley So short of moving to Silicon Valley.
+
+[00:10:37]
+
+>> [LAUGH] Yes.
+>> I mean, you know, we have 37, 000
+>> Right.
+>> We don't anticipate them.
+>> Yeah. I don't expect everyone to move, no.
+>> So what are the sort of, what's the best way to take advantage of the
+>> Well [CROSSTALK], I think first of all there are smart people all over the world.
+
+[00:10:51]
+One of the things I did a few years ago is I went and I was a visiting entrepreneuring residence in [UNKNOWN]. At the university there. And certainly what I found is there are tremendous entrepreneurs with tremendous ideas. Skill sets. They for example, have a fantastic informatics department. So very knowledgable.
+
+[00:11:10]
+
+>> Right.
+>> Motivated, dedicated people. And you know, I think step one is they're realizing what they have to learn and so they're going online, they're finding all the available resources. They're doing things like this and they're connecting up with global community of fellow entrepreneurs. I think the second thing is.
+
+[00:11:27]
+I'll just, I'll, I'll just put it emperically. Out of the 50 companies I met with over there, 49 of them were building things that were global in nature, i.e. We might be sitting here working on something. There might be someone in China working on something. There might be someone in Brazil working on something.
+
+[00:11:44]
+And there might be someone working in India on something. And all those companies might collide in the future. That is a, is a new phenomenon I think that wasn't as much the case up until very recent, right? You could start something and be in your geography. And certainly, and I still wanna say, there is a vast amount of entrepreneurship that is local-based.
+
+[00:12:02]
+Services, local product. There are things you can do that are local. And you can be a fantastic entrepreneur and only worry about your local environment. But for the kinds of tech, for the kinds of entrepreneurship that I see, particularly as an investor, internet, mobile, that sort of thing, I can get my mobile app from you, or I can get my mobile app from someone sitting in Russia, right?
+
+[00:12:24]
+Doesn't matter to me as long as the mobile app works.
+>> Works, right.
+>> And it's gonna come to me in a fluid, you know, seamless fashion. So, I think that entrepreneur have to think about that. You have to think your competition is everyone else in the world.
+
+[00:12:36]
+I think there're tremendous advantages to being outside of Silicon Valley. You know, here, everyone, you know, it feels like everyone focus on the same thing.
+>> Mm-hm. It's very expensive. TiVo, a local company, it's a public company. I chair their compensation committee, and so I have to be up to speed on compensation here.
+
+[00:12:53]
+And trust me, you know, compensation in Silicon Valley, you know, is expensive, but the cost of living is also expensive. If you're located somewhere else, you don't have that cost of living issue. You can draw from a wider base of population. I think those are all sorts of advantages.
+
+[00:13:08]
+I think there are advantages of having to do with lifestyle. I think there are advantages of having to do with, obviously economies. So, I think there are things you can do, but again I would go back to recognize that you are competing globally.
+>> Mm-hm.
+>> And recognize again that you probably have to get on airplanes, to do certain things.
+
+[00:13:26]
+And that's just the way it is. [LAUGH]
+>> And since you talked about the compensation, are we at one of those peaks in Silicon Valley, or is it sort of
+>> Well, you knokw, I think the thing that has made Silicon Valley unique in the past and I think this is again propagating around the world, but It is our reliance on equity as compensation, right?
+
+[00:13:48]
+So, in the past, you come to work for a start-up and you don't make any money, but you have lots of stock, or stock options, and some day that becomes valuable. And that has continued, I think, to be the driver of Silicon Valley. And if you look, and you look at the wealth creation in Silicon Valley, it's not because you're paid a big salary, it's because you build something of, of equity value.
+
+[00:14:10]
+And that either goes public or gets acquired and that of course is the venture capitalist business model, right? We don't, we don't make money on the revenue of the company, we make money when the company has a liquidity event.
+>> Right.
+>> So I think that the, the, the good news if you will for Silicon Valley is we have sort of boom and bust cycles here, right, and we go through them and we have Bad years and we have good years.
+
+[00:14:32]
+And one of the things right now is if you look at wealth creation just in this small area with the IPOs of, of Zynga and Facebook and LinkedIn with the with the acquisition of company, local companies, things like Instagram, you know, you, you have Liquidity events that bring capital into this market, and what does that do?
+
+[00:14:54]
+It makes it harder to get a table at a restaurant, it makes it more expensive to buy a house [INAUDIBLE] and all those things happen, right? So in a way, we have a little bit of a, of a bubble that's caused by released liquidity from some successful companies, some of which took many, many years to build, some of which didn't take so long to build.
+
+[00:15:12]
+So, yeah do I think we have a little bit of that going on? Yes, we do. On the flip side there's, you know, companies have to make business sense, right? You can't pay everyone exorbitant wages because people think that's what should happen. You have to make companies make sense.
+
+[00:15:30]
+So, I think that there's rationalization of that, and I also think. The other thing that happens is everybody, it's like the lottery, right. We have a lottery in California and they promote the winner of the lottery. Now if you statistically look at the lottery, you would never buy a lottery ticket.
+
+[00:15:44]
+
+>> Right.
+>> But of course, people don't statistically look at it. They watch the interview of the person who won $40 million and they say, I can do that too. So, Every time somebody gets a financing here that's big, right, there was a company I guess, got a big round a couple of weeks ago called Vidi, and I was meeting some, with some entrepreneur and he said, well, Vidi got this and I said oh yeah, Vidi did.
+
+[00:16:06]
+But you're not you know [LAUGH] and so there's always this idea that you are going to be that person, that you're going to start the next Facebook, that you're going to get the big financing and, and most of the world doesn't work that way including the world right here in Silicon Valley.
+
+[00:16:21]
+So I think there's still a lot of normalcy out there.
+>> Uh-huh
+>> I hope. [LAUGH]
+>> Yeah, not like that. So actually, about the Facebook, there was this con, there was this post by Paul Graham that it maybe actually hurting the symptom especially the companies.
+>> Right.
+
+[00:16:35]
+
+>> That start off at earliest stages because.
+>> Right. It didn't do as well as some people expected.
+>> I find it very hard to understand how an IPO that values a company at, what are they at now, $80-90 billion, as a failure?
+>> Right.
+>> I'd like a failure like that in my life, thank you very much.
+
+[00:16:54]
+[LAUGH]
+>> I see. Now, we have a, a whole other set of questions.
+>> Mm-hm.
+>> So one, you know. First of the [INAUDIBLE] do you think the Silicon Valley scene is male dominated?
+>> Oh, absolutely.
+>> So what are the you know, as a, as
+>> [LAUGH]
+
+[00:17:12]
+
+>> What are, what are the main obstacles?
+>> So I can tell you why it is that way. And then I can tell you what I think we should do about it. If anything, right? I mean. let's, let's argue that things are the way they are because they are that way and they seem to work that way.
+
+[00:17:27]
+But I would also like to see more and more women included, and I am seeing more and more women included. But I, you know, at a fundamental level, Silicone Valley is a technology meritocracy. And the most, people with the most successful technical chops get ahead. And largely, those people are male.
+
+[00:17:47]
+And why that happens? Well you have to go down into college and high school and even grade school education, and understand why women are opting out of computer science and other places. Now, women are on the upswing there, and I think that's because of very decided effort on the part of educators and informed people, and people with long-term view.
+
+[00:18:07]
+To go and help women through a critical period, and I have my own very sexist view on why this is the case. Is because I believe that adolescent males like to focus in and do something like stare at a computer screen, and I believe that adolescent females like to talk to each other.
+
+[00:18:22]
+And so [LAUGH] for whatever reason, that doesn't necessarily go well with learning how to program. I, this is my fundamental belief about why there are more male programmers than female programmers.
+>> We have to just change the way we program.
+>> [CROSSTALK] Well if you get them through that adolescent phase and if you can keep them in science and technology education, women, young women, they will come out and some of them will, will be brilliant at it.
+
+[00:18:44]
+And that's part of the problem. So part of the problem is that, is that is, is, kind of supply chain of people and understanding that we have to promote and continue and support women in technology. And, and, it isn't just that women are naturally inclined to do this not that, it's also.
+
+[00:19:02]
+I've had women tell me, particularly I've met with some brilliant young women who've come out of India and have been at, you know IT in the top places and they've said to me how uncomfortable they feel socially because they don't feel that they can ask questions, and they don't, you know they're cultural reasons why some women have felt like they.
+
+[00:19:20]
+Are not allowed to fully participate. And so, the more, you know, again, I believe over time those issues get resolved. And I believe that, as women start seeing more female role models, that is another way that you can track in. So, I'd say that this is one of those that, we have to tackle both of the.
+
+[00:19:38]
+At the big issue level, right.
+>> Mm-hm.
+>> And things like the National Center for Woman and Information Technology, ncwit.org, that does a lot of work like this with large corporations to try to, to focus on women at the, at the earlier stages so they stay in science and technology, along with each of us making an individual effort.
+
+[00:19:57]
+So each of us making sure. You know, when I teach my class at Stanford I make sure that if there are, you know, women you wanna take my class, I figure out a way to get them in my class. I make sure that I'm accessible to them, that I'm available to them.
+
+[00:20:11]
+I, you know, I try to, to the extent I can. Be as accessible to female entrepreneurs as I can.
+>> That's wonderful.
+>> And if each of us makes that kind of effort, not just women, but men, too.
+>> Absolutely.
+>> Right I think that women have a lot to offer.
+
+[00:20:25]
+I think that women are, women control the majority of, of home spending in most countries, certainly in this country. Women are communicators. I think women are huge users of technology. Women are the primary users of Zynga and Facebook and, you know, if you think about it, they're the drivers of a lot of this.
+
+[00:20:44]
+And I think particularly as technology becomes more and more personal. That more and more women are relying on it, and therefore, I think that they'll have more ideas about how to improve it and what to do with it and how to make it more useful. And I certainly see women entrepreneurs coming into DFJ and coming into my class all the time.
+
+[00:21:04]
+So I feel we're, we're moving in the right direction, but I think fundamentally, this whole idea of. Technology education and being facile at technology is directing still, a lot of the, you know.
+>> I see.
+>> The imbalance in gender that you see in SIlicon Valley today.
+>> Yeah, so, fortunately, you have actually quite a few excellent tapes on venture math that are either formed or being led by, by women.
+
+[00:21:31]
+
+>> Yay.
+>> I was, It could be also, you know, is to have resources or communities that they can take advantage of.
+>> Yeah. I mean a couple. I'll just reel them off. ncwit.org, National Center for Women and Information Technology, Springboard Enterprises which helps fund women. That's based in New York.
+
+[00:21:50]
+Locally there's a group called mark, Watermark, there's a group called Astia. And those groups are around women and women in technology. There are a number of organizations in Scotland there was one called Girl Geeks. I mean, I think that there are, you know, and this is the, the thing that I would, that I would argue about.
+
+[00:22:07]
+I think women banding together in groups helping each other out is fantastic. I also think that if you're operating in a, in a world dominating by men, you don't want to exclude yourself from their community. And so I think there's a delicate balance between you know, I have even, even at, at, at my advance age and career, I have groups of women and we get together and we.
+
+[00:22:29]
+Get a bottle of wine and we complain about, you know, whatever, and we console each other. And we'd kind of help each other out, and we solve each others problems. And, you know. And we have fun together. But I also, the vast majority of my day is spent with men.
+
+[00:22:45]
+I'm usually the only woman in the room or one of two women in the room. And so, you have to be comfortable with both those things, and I think you have to find your helpers and your mentors, wherever they might be. So, I would just encourage all the female entrepreneurs that they have to be thinking about both.
+
+[00:23:04]
+
+>> Alright. now, one of our students called you a legendary networker,
+>> Okay. So [LAUGH] [INAUDIBLE] she asks what's your golden rule in maintaining relationships?
+>> My golden rule is, it's gonna sound really simple, but golden rules should be simple, right, which is be yourself. My belief is each of us has.
+
+[00:23:33]
+It's our personal reputation. Some people call it your personal brand. And to me, brands are all about consistency, right. When you go to Starbucks, you know what the food's gonna taste like, you know what the coffee's gonna taste, you pretty much know what's music's gonna be on. You kinda know what the baristas are gonna look like.
+
+[00:23:47]
+I mean, honestly, but that's why you go to Starbucks. It, it's a consistent brand and it, and you know and you trust it. And I believe each of us is, as we go out there in the world and we build our networks, and I really believe in business, building a business network.
+
+[00:24:01]
+And I'll, and I'll, if I can digress for a minute I'm gonna tell you why. Is number one, none of us should depend on our governments, we're all gonna be working for the rest of our lives. So bad news, and if it's already that bad for me, at 54, it's really bad for everybody else younger.
+
+[00:24:15]
+So, number one, you're gonna be working the rest of your life. I'm sorry I'm the one to tell you that. Number two, you're gonna reinvent yourself many times in the course of your life because because the world's changing. I mean, look at me. I've had many different jobs in my career and I continue to evolve.
+
+[00:24:30]
+And when you do that, when you need to reinvent yourself, if you have a network of other smart people you've collected through your life that share some of your passions and interests, but have different skill sets and different. Reach in the world and different types of jobs, they will help you do your next thing.
+
+[00:24:47]
+So, number one, I just think it's good business, but the other reason I think it is, is it makes life more interesting. If you have an interesting network of people. and, and by the way, when I go out and I build my network, I don't necessarily Look for the most important person in the room.
+
+[00:25:03]
+I'm looking for the most interesting person in the room. Right, I don't care what age they are, I don't care if they have something to offer me today, or not. I'm looking for the interesting person I can connect with, and who shares my interests and ethics and that sort of thing.
+
+[00:25:17]
+And over time, I collect those people. And, over time, some of the people prove to be incredibly valuable to my network. But, they also make my life more fun.
+>> [CROSSTALK]
+>> So, I just believe, generally, just, if you find peopleyou are interested in, at some point in your life, it turns out you will probably have something to do with them.
+
+[00:25:32]
+If you are yourself, going back to the golden rule, and you just be yourself. I think you'll just naturally attract people who are attracted to who you are. And you will. Some people won't like you. And I think the answer to that is, it's so much easier to be yourself than it is to try to be someone else all day long.
+
+[00:25:48]
+And also I'm really good at being me.
+>> Uh-huh.
+>> I'm not really good at being someone else. And so therefore, if I have to be, I liken it to, if you have to speak a foreign language all day. I only speak one and I speak it poorly.
+
+[00:26:01]
+And if I speak it all day, I'm so tired at the end of the day, because I've had to be a different like, everything I have to translate in my head and translate back out again and I'm just not good at it. And I feel like people who try to put on a different persona.
+
+[00:26:15]
+
+>> Every day.
+>> Every day, they must come home really tired. And they must not be very good at it. So, I just prefer being the same all the time. And, and let me tell you, sometimes that means I am failure because my style is very Silicon Valley, is very female, is very California.
+
+[00:26:32]
+Sometimes that's not accepted, right? Sometimes I walk into a board and. They're, they're not gonna like me, stylistically. Well, should I sit around and be someone different all day or should I just go pick somewhere else to work, right? So my belief is, the more you are true to yourself, the more you will actually do better and enjoy it more.
+
+[00:26:53]
+Which I think is good.
+>> Alright there, I also remember you heard this, or I, I heard you tell this story about when you wanted to become a member of sort of, use your network to actually become get on the board of directors on a couple of companies.
+
+[00:27:12]
+
+>> Mm-hm, mm-hm, mm-hm.
+>> So could you, what did you do?
+>> Sure. Well, I mean, I think this is, this is another Lesson I've learned in my life, which is the homework never ends. Right? You, you don't stop, you don't stop one day and say oh, I've already been a CEO and I've already done this and that, I don't have to do anything anymore.
+
+[00:27:29]
+You constantly have to do your homework and I call it say thank you, you know, be connect, make the effort, make the effort in both directions. Be thankful. I, I think most people, it is amazing to me, how many people don't do their homework. Right, they'll have a meeting with you and they won't have read your LinkedIn profile.
+
+[00:27:50]
+You know, why would you do that, right? I am amazed at how many people ask me to do them a favor and they don't follow up. They don't give me the information I need to do them the favor or they don't say thank you if I do them the favor.
+
+[00:28:02]
+That's remarkable too, right. I mean, that's the easiest thing to do in the world today, right. Especially with email. It's just not that hard. So I think that, for me, the, the homework never ends.
+>> Mm-hm. I'm always looking at opportunity. And I'm, and, and I'm thinking about, you know, what do I want to do next and how does that work.
+
+[00:28:20]
+So with the board example, when I decided I wanted to do another public board, most public boards are, you get recruited to the board by other people who are on public boards.
+>> Right.
+>> Therefore, if you want to be on a public board, hang out with other people who are on public boards.
+
+[00:28:35]
+
+>> Uh-huh. So one day I went through all of my contacts, and I found anyone who serves on a public board, is an accountant to a public board, is general council to a public board, and I sent out 106 emails, each hand crafted, took me eight hours, saying, here's what I currently am doing.
+
+[00:28:54]
+Very short, cuz I don't want to waste people's time, here's, three, four sentences about me. I'm looking for another public board. If he knows of one, let me know. And as a result I got well I ended up in a way, this led to finding the TiVo board.
+
+[00:29:10]
+Although that was a different, I went to a cocktail party and I ran into someone who was on the TiVo board. And he said, what do you, what do you, what are you doing nowadays? And I said I'm looking for another board, and he said, oh. Well, I've got an idea for you.
+
+[00:29:23]
+[INAUDIBLE] And so I think this is, this is the put yourself in the place where the luck can happen to you.
+>> Mm-hm. And that means sometimes getting out of your comfort zone. It means doing your homework. It means. Putting, putting yourself out there. Going, going to a conference.
+
+[00:29:39]
+Going to a meeting. Going to an event. Coming to a class.
+>> Uh-huh.
+>> Where you will meet those people.
+>> Or write 100 emails.
+>> Or write 100 emails.
+>> Yeah.
+>> And not be shy about it.
+>> so, what are your plans for next year, and are you teaching any classes?
+
+[00:29:54]
+
+>> Yes, so I am, I'm teaching MSE 178 here at Stanford, Spirit of Entrepreneurship. Winter quarter, so fantastic, and I am on 6 about to be 7 boards of companies, and I'm on 2 advisory boards, so I have a [CROSSTALK] I have a basket of companies that takes up a lot of my time, and and I'm a mom too, so I have 2 daughters.
+
+[00:30:19]
+And so I try to spend a little time with my daughters, but but life is good, I'm continuing to, you know, work with great entrepreneurs, and really excited about doing that.
+>> [INAUDIBLE] Wonderful. Thank you so much for joining us.
+>> Thank you. Thank you.
+>> Hopefully you know, [UNKNOWN] maybe some of your lecture on the spirit of entrepreneurship [CROSSTALK]
+
+[00:30:40]
+
+>> I hope so. I hope so. Well, I look forward to it.
+>> Great, well, thank you.
+>> Thank you.
+>> Thanks for having me here.
+>> Thanks.
+>> And good luck to everybody.
+>> Mm-hm.
+

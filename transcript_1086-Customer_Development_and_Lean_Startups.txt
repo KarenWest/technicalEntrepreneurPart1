@@ -1,0 +1,154 @@
+[00:00:05]
+Stanford University.
+>> Hello, and welcome back to E145, Technology Entrepreneurship. In this video, I'm going to introduce the ideas of customer development and lean startups. I'm also going to give you a new formula for venture performance. And this formula is that venture performance is about product development, customer development, team building and luck.
+
+[00:00:33]
+And so, in addition to developing and building a product, the idea is that you also have to develop and build the set of customers that you're going to sell it to. But, how do we know what product to build and what set of customers we should target. This leads to the next step in the formula, which is that venture performance is about your learning rate, plus product and customer development, along with the characteristics of the team and, of course, a bit of luck.
+
+[00:01:07]
+And so this learning rate has to be quick enough to learn enough about what product customers want, and who those customers are for the venture to be successful. So let's talk about this in a bit more detail. This starts with understanding what the fundamental differences between startups and large companies are.
+
+[00:01:30]
+For startups, they often operate in an environment where there's an unknown product, an unknown market, and unknown competitive dynamics. As you might imagine, this leads to a lot of risk. On the other hand, large companies typically operate in an environment where there is a known market, there's a set of customers they've already been selling to, there's a known product, and there are already known competitive dynamics.
+
+[00:01:58]
+So if we're in this large company where all, where we have all these known facts, then it's much easier to go through a planning process. And this led to our initial approaches to try and teach entrepreneurship, which was through writing business plans and having business plan writing competitions.
+
+[00:02:16]
+But this only, this planning type of process only works well when you have all of the facts, when you know what the market is and you know a lot about what the product should be. When you're in an unknown market with unknown products and unknown competitive dynamics, then we need to do something other than planning.
+
+[00:02:39]
+And so entrepreneurship can be thought of as a discovery process. We wanna move from the unknown to the known. We wanna move from being a small startup to being a large established successful company. And so, how do we go, go about this discovery process? What methodology should we use?
+
+[00:03:02]
+One idea is to use the same discovery process that we use in science. Turns out we already have a methodology for moving from an unknown world to a known world. The scientific method helps us through a process of how to uncover facts about the world around us. And so we wanna use some version of the scientific method in the startup process to discover what the product should be, who the customers are, what the business model should be, essentially.
+
+[00:03:33]
+And so this is one version of the scientific method, and you can find many of these on the web, and while they all share a similar structure, they have differences in some of the elements. And so this one starts with defining and identifying the problem. So this is pretty analogous to the situation we face in a start up.
+
+[00:03:54]
+What's the customer problem or need that we're solving? We're going to then form a hypothesis about it. Alright, and then either make observations, or do some kind of test, perform experiments, to either verify, or rule out, that hypothesis. So we're gonna spend some time organizing and analyzing data.
+
+[00:04:18]
+And then, we're gonna analyze that data. Find out, do the experiments and observations sup, support our hypothesis? So there are two outcomes here. Either they might support our hypothesis. In which case we are very happy and we can draw some conclusions about the market and the product. And, if we were doing science, we would then communicate those results via conference presentations or papers.
+
+[00:04:43]
+In a startup, rather than communicating those results, we're gonna use those to inform our product development process and how we build the startup. But, the more likely scenario, both in science and in start ups, is that the experiments and observations don't quite support the hypothesis. And so, then we're gonna have to start asking ourselves, was this a faulty experiment?
+
+[00:05:07]
+Is there something that's untrue about the hypothesis? We might need to design some newer experiments and start the cycle over again. And so, in startups, these these steps that I just mentioned of realizing that you had a failed experiment or a false hypothesis and trying again with a new hypothesis is known as the pivot.
+
+[00:05:33]
+And, like we mentioned earlier, this, this term the pivot has become so engrained in the startup world and startup culture in Silicon Valley, that there's even starting to be comics and satire about it. So anyway, back to the scientific method. Here's another version. And in this version, we start again by asking some question, so do customers want this product?
+
+[00:05:59]
+Or, would, would this, new start-up idea be successful? You then do some background research. So we'll talk a bit about what background research would look like in the world of entrepreneurship and start-ups. You then construct a hypothesis, and again test that hypothesis with an experiment. Once you've done the experiment, you can then analyze what the results are and draw a conclusion.
+
+[00:06:26]
+So again this conclusion might either be true or the conclusion might be false or partially true, and in that case we're gonna have to go back to the drawing board. Think again. Modify the hypothesis in some way or come up with a new hypothesis and design a new experiment.
+
+[00:06:42]
+And so this is the scientific methodology. This is the scientific process that we want to then take in anal, in analogous form to entrepreneurship. And so, as I've emphasized in the past, entrepreneurship is a search or learning process. You start out as a startup, you then go through a transition, and eventually you hope to become a large company.
+
+[00:07:11]
+At least if you're doing a scalable high growth type of startup. In the startup phase you're fundamentally searching for a business model. Once you've found that business model, then you wanna scale up the organization. You want to make that business model repeatable and scale up the organization to a larger size.
+
+[00:07:34]
+You then have become a large company where you're essentially executing on a known business model. So, these are the differences. This is why there's a different process, a different type of person, a different methodology when you're in the startup phase, from when you're in the large company phase.
+
+[00:07:54]
+And so here's an example of the business model canvas or a business model diagram. And so, here we have the device, software, IP, whatever the product is, and we have flows of money outward from the business that are going into sales and distribution, or doing some marketing and demand creation.
+
+[00:08:19]
+We have a set of users or a set of cuff, of customers. These might be the same, or they might actually be different. They're giving us a flow of money back into the business by paying for the product. And this money back into the business is then paying for employees, data, networks, customer partners that, that are going to help with the product design, components, and manufacturing.
+
+[00:08:43]
+Which again represents outflows of money from the, from the business. So if this business model works, if it's gonna be scalable, we need to know that each of these pieces is going to work, and we need to know that the total money that flows out of the business is less than the total amount of money that flows into the business.
+
+[00:09:06]
+And so, in this business model, where is the risk? What is the riskiest part of this business model? How would you go about reducing it? Where should you begin? These are the questions that we need to think about in going through the startup process. And so, when you start thinking about applying customer development and this methodology in your own venture, which aspects of your business model are the most risky, the most uncertain?
+
+[00:09:37]
+Which aspects are the most novel? Which piece of your business model is the most important to get right? Is it the technology? Is it the set of customers? Is it a key partner? Think through these within your own venture, and we'll talk more about the next steps. And so, one thing that I wanna point out before I end this video, is that the scientific method looks a lot different in practice than it does in theory.
+
+[00:10:09]
+And this is gonna turn out to be really important in startups. So this comes from the PhD comics. Which is a great comic strip, but anything funny has a grain of truth in it. And so, here they have their version of the scientific method, where you observe some natural phenomena, formulate a hypothesis.
+
+[00:10:29]
+You then, test that hypothesis through some type of rigorous experiment, and then if the, test turns out to fail or only be partially supported, then you might go back and modify that hypothesis and start the process over again, until you get some confirmation of, of the hypothesis. They point out that the actual method, sometimes looks quite different.
+
+[00:10:53]
+And so, they say what actually happens is you make up some theory based on what the funding agency wants to be true. You design some minimal experiments that might suggest that the theory is true. And you then publish a paper renaming theory to hypothesis and pretending that you actually used the scientific method.
+
+[00:11:15]
+And finally you defend the theory despite all evidence to the contrary. And all too often, it's actually this method that winds up getting used when people are doing startups and creating new ventures. And so, we want to avoid doing this actual method and try and stick more closely to the actual scientific method when we're going about new venture creation.
+
+[00:11:40]
+But it's really hard for a numer, number of reasons that I'll talk about in the next video. And so before we move on, I want to play you a short video clip that talks about testing the customer piece of the business model. And so here we are on the e-corner website.
+
+[00:12:02]
+This is Jessica Mah and she's co-founder at InDinero. And I just wanna play you a short clip of an interview with her that happened here at Standford. [SOUND]
+>> So you got the million dollars, you got some helpful investors.
+>> Aha.
+>> You start hiring people. What were those people supposed to be doing?
+
+[00:12:22]
+
+>> They were supposed to be programming and building product.
+>> Okay. And building product for who?
+>> Building product for the customer. And a huge issue here was engineers, as I'm sure all of us know, just really like building elegant code and re-factoring a lot and making it really fast and, and this was a, a huge debate and problem within my own company.
+
+[00:12:46]
+We, I always wanted to just build lots of features for the customers and, and a few of my engineers just wanted to make a really beautiful code base. And that's just not what customers want.
+>> And so what did you find out? And how did you find out what customers want?
+
+[00:13:02]
+
+>> We got out of the building as, as your book told us to do. And, [LAUGH].
+>> If I was smart, I'd have a book here, Four Steps to the Epiphany, available on Amazon.com.
+>> It's a great book.
+>> But I won't say that, no?
+>> It was one of, it was one of the only books I read that first summer when we started the company.
+
+[00:13:20]
+I read through Eric Ries' blog. He's another great entrepreneur.
+>> Lean Startup, by Eric Ries. Worth buying.
+>> [LAUGH] And I read through Four Steps to the Epiphany and, and that was actually our, our biggest concern. Because, my co-founder and I, like we had this great CS background, but we didn't really know how to build useful products that, that made money.
+
+[00:13:41]
+So, we decided to set up a very strict schedule for ourselves. Every Friday we would get out of the building and watch people use the product. And even if there were still more features, we wanted to build before we saw people use it. We found out that each customer led to a completely different set of insights that we wouldn't have gotten from past customers.
+
+[00:14:03]
+And we couldn't just do it for 10, or 20, or 30 people. We had to survey dozens and dozens and dozens of customers to really figure out what we're gonna build.
+>> Wow. And so, what did you learn? What was the, I mean, this sounds perfect, right? I mean, there, nothing could go wrong.
+
+[00:14:20]
+
+>> Well, I mean, you find out that a bunch of the features you built they're not using. You find out that you wasted your time on, on just thinking about a product road map that doesn't make sense. So like one thing you, you learn early on was not to plan three or six months in advance, because by doing these customer surveys we, we found out that they urgently needed XYZ feature that we just didn't have in our plan.
+
+[00:14:48]
+So we had to, we had to be really flexible and, and now we only plan like two or three weeks out.
+>> So isn't that short-term vision kind of in conflict of having a long-term vision for the company?
+>> I don't think they necessarily are.
+>> How so?
+
+[00:15:01]
+
+>> Like, we have a long-term, very high-level broad vision. We wanna help every business owner better manage and improve their finances. And whether that means going down the path of building accounting software, or replacing bookkeepers and accountants, or whatever that's just a high-level vision, but the low level of how to get there is, is the hard part.
+
+[00:15:24]
+
+>> And, and did that cause any conflict with engineering, of who wanted to build this perfect code?
+>> Yeah, it's, it's really tough because what customers want isn't necessarily what you or your engineering team wants to build. Like some of these features are really, really, really unsexy. Like financial statements and stuff.
+
+[00:15:42]
+I think they're awesome. But, like, they're not necessarily that exciting.
+>> That was Steve Blank interviewing Jessica Mah, the co-founder of InDinero. And you can see how she was emphasizing talking to customers and getting feedback from those customers and having that inform the product development process. And so you can see, in what she's talking about, this hypothesis testing framework that we were just discussing.
+
+[00:16:12]
+She was being interviewed by Steve Blank who has written a book called Four Steps to The Epiphany and writes a blog at SteveBlank.com. He's developed a lot of these ideas behind customer development and lean startups. That's it for this video. In the next video, I'll talk more about customer development and hypothesis testing.
+
+[00:16:35]
+
+>> For more, please visit us at stanford.edu.
+

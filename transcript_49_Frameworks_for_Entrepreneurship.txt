@@ -1,0 +1,173 @@
+[00:00:00]
+[MUSIC]
+
+[00:00:04]
+>> Stanford University.
+>> Hello. In this third video for E 145 Technology Entrepreneurship, I'll be talking about some frameworks for thinking about the entrepreneurial process. I'll be presenting you with nine different key models and frameworks. And like any framework or model, these are all imperfect representations of the real world.
+
+[00:00:31]
+But they all emphasize one aspect or the other of entrepreneurship. And during the rest of the course, I'd like you to be. Thinking about how each of these models relates to entrepreneurship, and I'll be referring back to them throughout the course. So I wanted to present all of them to you now.
+
+[00:00:49]
+You'll see some contradictions between them. Partly that's the fact that we're still learning about the process of entrepreneurship, and. In my talks, and, and what you hear from some of the speakers, there are gonna be different points of view, and different ideas. And so, it's hope, it's my hope that in the course of doing this, that you'll get a better sense for some of the current debates and alternative viewpoints on how to go through the start up process.
+
+[00:01:18]
+So our first framework comes from the, the division in the class between opportunity recognition and the pursuit of new opportunities. And so we can think about entrepreneurship as essentially these two steps. In the first step, you see some disconnect, you see some missing, missing link. Between a need in the market and some new product or service that could be provided to fill that need.
+
+[00:01:47]
+And so, the essential task of opportunity recognition is to fill in this link between some need, some unfulfilled problem. Some, something that is not quite being delivered to the market that customers are saying that they want. And some new technology that can deliver a product or create a new service that can then fill this need in the market.
+
+[00:02:12]
+And so this could come in, in either direction, this could from first recognizing a new technology, or creating a new product, and then figuring out what is the market need that this fulfils? Who are the customers and consumers that care about this most? Or, it could come from the opposite direction of starting with knowledge of a market need and then going out and trying to either find or invent the technology and the product that can fulfil that market need.
+
+[00:02:40]
+So, you can go in either direction and there're downfalls or advantages to each side. But this essential link has to be made to recognize a new opportunity. The second step, once you've then identified the opportunity, is then the pursuit of opportunity. And so that's gonna involve both putting together the set of people, the cofounders and early hires, as well as the or rest of the organizational structure.
+
+[00:03:07]
+That's gonna enable you to pursue that opportunity. And it's also gonna require some resources and capital. And so the pursuit of opportunity is going to involve raising financing, and bringing together any other type of resource such as Organizational partner or a distribution channel that might be necessary to pursue that opportunity.
+
+[00:03:28]
+So that's our first framework and it represents the basic division in the class between the first half and the second half of the course as well. So our second key framework comes from the textbook that we're using for the class, Technology Ventures. And this framework talks about the entrepreneurship process as essentially preceding in three stages.
+
+[00:03:49]
+Starts with having an initial vision. And then you proceed from that vision to creating the strategy that you'll use in the venture. And then executing on that strategy. And so we have three essential steps, vision, strategy and execution. So the fundamental questions under the vision step are, what are we as the founders want to achieve in this business?
+
+[00:04:14]
+You have to think through. What business are we in? What's, what's the story of the business and what are the shared vision and goals that you're entering into to gather as co-founders? So think about your own venture ideas, even if you haven't settled on one yet. Think about what business are you really in?
+
+[00:04:30]
+What's the broader vision that's motivating this business? So a couple of prominent examples. For Yahoo, were they an internet directory, a way of categorizing information on the web? What about for Google? This is a little trickier. Are they fundamentally a search company? Is their mission to categorize and make accessible the world's information?
+
+[00:04:55]
+There must be some broader vision that's motivating them. Beyond simply being a company that presents search results alongside a set of ads. Often in entrepreneurship, to motivate all the long hours and hard work, you really have to have a bigger vision that's driving you to be successful in this business and driving you to wanna go through all the hard work to create it.
+
+[00:05:17]
+So think through in your own examples. What's your vision? And then, moving down to the strategy, once you're clear on the vision, that's then going to inform how you'll proceed with the strategy. What resources will you need to achieve that vision? And, on the other side, what kind of teammates are you gonna, are you going to need?
+
+[00:05:36]
+What co-founders should you put together to be able to pursue this vision? What early hires are you going to have to make? And this is all gonna be driven by this question of what's the firm's distinctive competencies? So you've had this vision. What distinctive capabilities are you going to need, to be able to execute on that, on that vision?
+
+[00:05:56]
+And so then these distinct competencies then drive creating what your business strategy is going to be. And this business strategy is partly gonna be based on the industry context, and partly it's gonna be based on. What level of innovation or novelty you have in the venture. Once you've thought through your strategy, then it's all coming down to execution, and executing on that strategy.
+
+[00:06:19]
+So you need to put in place some set of processes, and you need to bring together the talent, and you need to embed them in some sort of organizational structure that's actually gonna get the work done. And this, one hopes. Will lead to a profitable business. And so our fundamental questions under strategy are; who's gonna buy, what are we selling, why are we better than the competition?
+
+[00:06:39]
+Essentially, do we have the right strategy? Fundamental questions under execution are, what resources do we need? What's our blueprint? What's our plan going forward? How can we adapt? What unanticipated things might happen, and what are we going to do in response? Who do we need to execute on this, on this business?
+
+[00:06:57]
+Key framework number three comes from Bill Sahlman, and his concept of fit. So this, essential idea here is that the business plan must all fit together. So the business plan is made up of four essential elements. There's the people, there is the deal, the opportunity and the resources.
+
+[00:07:16]
+So these things must fit together. So, if you're going to go after a particular opportunity let's say an e-commerce opportunity on the web. You're gonna need certain resources. They might be server space at a certain bandwidth. It made, it might be some financial resources to be able to hire programmers.
+
+[00:07:34]
+And so this must fit with the team, who, who is it that you gonna need to, to commercialize this ecommerce opportunity? With capabilities and what kind of reputation are they gonna look for? And this might drive, what your resource needs are, and then the deal. If you, if you are gathering some type of financial resources, then you have to offer something in return.
+
+[00:07:57]
+So you have to know something about what the rewards and what the risks are to this venture. What are the incentives of these resource providers to give you these resources? This has to fit with both the people who are executing on it. Are they up to the task?
+
+[00:08:12]
+And it has to fit with the opportunity. Is the market large enough to be able to provide the rewards financially that you're hoping? And so, there's essentially has to be a fit between all of these elements. Key framework number four comes from Randy Komisar's book, The Monk and the Riddle.
+
+[00:08:30]
+So, he talks about three questions that every venture capitalist wants to know the answer to. These are, is it a big market? Do we have a winning strategy? If so, what is it? Why do we think that this is a winning strategy? And is it an excellent team?
+
+[00:08:45]
+So if you can provide the answers to these three questions, these are the fundamental building blocks of the venture. So, we'll be talking in much more detail about each of these, but I just wanna briefly present these frameworks to you now. Framework number five, is that entrepreneurship is essentially about risk reduction in each and every step?
+
+[00:09:06]
+So you start out a new venture and it's gonna be risky in a number of different ways. It can have, let's say, technology risk. Is the technology gonna work? Can we develop it? Does it solve the problem? It could be team risk. Can we put together the right team?
+
+[00:09:23]
+Can we recruit the people we're gonna need? There's capital risk, can we raise the capital that we need to be able to create the venture? And finally, there's market risk. Is there really a market for this product? Do customers really wanna buy it? Do they really have this unfulfilled need that we say they do?
+
+[00:09:39]
+And so each venture is gonna have different levels of each type of risk. And so you might imagine if you're doing a biotech, it's gonna have a lot of technology risk. Or a clean energy company. Will the technology actually produce this amount of energy at this cost? These types of ventures might also have more capital risk.
+
+[00:10:01]
+Can we raise the amount of money that we need to do this level of R and D. On the other hand, you might imagine a mobile, or mobile application, or a website app. Where there might be more market risk. Are people actually gonna come to this website? Do they have the need for this web service?
+
+[00:10:20]
+But the technology risk might actually be lower in this case. We can program the website, we can create it easy enough. But the real risky part is, will people actually want it? And, and this case, the capital risk might be lower, because you might not need as much money to really get started.
+
+[00:10:35]
+And so you can imagine entrepreneurship as a sequential process of reducing risk, that you start with the riskiest aspect and little by little, you start taking risk out of the venture. If you recruit the initial couple of co-founders, you've taken out some technology, some team risk. If you raise a bit of money, you've taken out some capital risk.
+
+[00:10:58]
+If you sign up the first 50 customers, you've taken out some level of market risk. If you continue to develop the technology and create a new feature that customers want, you've taken out some technology risk. And so eventually, little by little you derisk the venture and you create an established large organization.
+
+[00:11:19]
+That's framework number five. Framework number six comes from Geoffrey Moore's book, Crossing the Chasm. And that is that, all entrepreneurial ventures Must cross this chasm in the market. And so the difficult part of entrepreneurship is getting to the main majority part of the market. If you have some new product or new technology, then it's likely you can get a few other innovators to give it a try.
+
+[00:11:46]
+Try it out, because they're, they're innovators. They like to try something new. After that, you might be able to get a few early adopters to try the product. People who like to just try new things out. They don't really care too much if it works or not. They just like kind of tinkering, and trying out new technologies.
+
+[00:12:02]
+And the difficult problem comes in moving from having a few early adopters using your product, to having the early majority. Well, the early majority is a little bit more skeptical. They're not necessarily, necessarily willing to waste time and money. Trying out just any new technology that comes along.
+
+[00:12:21]
+They wanna really see that this provides value to them. And so, can you cross this chasm, can you make this leap? From the early adopters to people who are bit more skeptical and only willing to try something if it really provides value to them. There's been the late majority, or only gonna sign up once they see that a number of other people are using it.
+
+[00:12:42]
+And finally there are the laggards in the market, who are only gonna adopt technology once they really have to, and once it's a necessity for them. And so, we'll talk a bit more in the entrepreneurial marketing session of the class about this bowling alley theory, about how it is that you go about.
+
+[00:13:02]
+This process of moving to progressively more difficult segments of the market. Key framework number seven is Steve Blank's view of the customer development process. And this is written about in his book called The Four Steps to the Epiphany. And so Steve Blank's view is very similar to the view that we're taking in this class, that entrepreneurship is about hypothesis testing and experimentation.
+
+[00:13:30]
+The view is that parallel to running product development, you must also run what he calls a customer development process. And so this involves. Starting out by identifying a set of customer needs and problems. And so you talk to several potential customers, you try and see what their unmet needs or what their problems are, trying, see if you can find solution, it might be a new technology, new product or new service that would meet this customer need.
+
+[00:14:00]
+You can then take the initial version of this to the customer validation step. Customer validation is going out and seeing if you can verify that it wasn't only these few people who you talked to who have this problem. But there are actually a large number of other customers.
+
+[00:14:18]
+So can you talk to another 20 people? Who also share the same problem, and who see this potential technology or product that you've developed as a solution to it. So if you fail to find those next 20 customers, then you've got to iterate and circle back to the first step and try and see if you can come up with either a different unmet need or problem, or a different solution to that problem.
+
+[00:14:44]
+And then come back and see if you can again verify that there are a larger set of customers who also share this problem, that it wasn't only these initial people. If you can do that, then you can progress along to the customer creation step. In this step, you begin to develop more greater level of user demand.
+
+[00:15:04]
+If you pass this step, then you can move on to more of the company-building step, and in creating a more repeatable, scalable sales and marketing plan. And so the, the core of the idea here is that you start with an initial hypothesis for what the needs are and what the potential solution is.
+
+[00:15:24]
+You then want to create small scale tests of that hypothesis, to see if it's true in the broader market. And only then do you progress on to later stages in the company building process. Otherwise, you go back and you run a different experiment with either a different set of needs.
+
+[00:15:43]
+Or a different potential solution to them. So this whole process requires not just dreaming up ideas in your dorm room or at home, but actually getting out and talking to people to run these experiments, to see if there's actually a customer need for your product. Frame work number eight.
+
+[00:16:03]
+Comes from Jerry Kaplan's book Startup, and it's Kaplan's Startup Race. So the idea here is that, a start up is essentially a race against time to reduce risk and create value. So this is somewhat similar to our model of reducing risk at each step. But it points out that we also have to create value along the way.
+
+[00:16:27]
+And so the steps are initially there's a founding. The entrepreneur begins with a vision and creates some shares of stock in a new venture. The entrepreneur then trades that stock for three things, ideas, money and investment. And people to join, other co-founders or early employees. So we then enter the seed stage.
+
+[00:16:50]
+So venture capitalists or angel investors might provide money in return for some of that stock. Employees join and will earn stock options as a result. Ideas become the intellectual property, which creates the initial value in the company. So further growth doesn't happen until we start hitting some additional milestones.
+
+[00:17:10]
+These milestones are either going to reduce risk, or generate additional value. As we achieve milestones, we reach the growth stage, we need more money, ideas and people. But the advantage is, since we have already reduced some risks, and we've already created some value on the company, we don't have to trade as much stock, at this stage, to get that money ideas or people.
+
+[00:17:34]
+And so as you reduce risk and build value, you have the benefit that you trade less stock, less percentage ownership in the company, for more resources. As the company hits further milestones and begins earning cash and creating their own revenues to finance further development, then we can create more value and get to the potential exit stage.
+
+[00:17:56]
+So in the exit stage, we might have an initial public offering or a merger and acquisition. And we'll talk more about these terms later in the course. At this stage, if there's an initial public offering or if there's an acquisition, then the entrepreneur, investors and employees can cash in, can trade in their stock for money.
+
+[00:18:16]
+Viable company's been created, and the entrepreneur can either continue to build the company, retire or start the game again, is the idea of the Startup Race. That if you run out of time, or run out of money before getting far enough to create more value or to reduce risk then the start up fails and ends.
+
+[00:18:37]
+But if you can create value and reduce risk fast enough, then you can continue on in the path. Nine is known as effectuation, and this was created by Saras Sarasvathy at University of Virginia. And notice that this model essentially reverses our model that we started with. In this model, you don't start with the vision.
+
+[00:19:00]
+Similar to Steve Blank's ideas of customer development, you start by doing some things. You start by thinking about what resources do I currently have? What can I potentially do with them? And you begin to execute. You see what works, and what doesn't, and from those initial experiments, you start to see what's working, and you develop your strategy.
+
+[00:19:22]
+And then from your strategy, you begin to realize what your broader vision for the company is. This is actually the startup model. Rather than starting with a fully fledged vision, you can start by running a few experiments, and seeing what you're getting traction on in the market. And then began to develop a broader strategy.
+
+[00:19:41]
+So this is an alternative framework for thinking about the start up process. That's it for video number three. I've given you nine different key models and frameworks for thinking about the start up process.
+>> For more, please visit us at stanford.edu.
+

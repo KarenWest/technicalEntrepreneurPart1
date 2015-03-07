@@ -1,0 +1,999 @@
+1
+00:00:08,658 --> 00:00:13,910
+Hello. This time in E145 Technology Entrepreneurship we're
+你好，欢迎来到科技创业E145.
+2
+00:00:13,930 --> 00:00:17,698
+going to talk about go-to-market strategies and marketing
+我们这节课会讲一讲如何进入市场的一些策略，以及市场需求的创造。
+3
+00:00:17,718 --> 00:00:24,806
+and demand creation. Last time I spoke about how you?re
+上一节课我讲了如何做市场定位，
+4
+00:00:24,826 --> 00:00:28,012
+positioning and your value proposition statement are going
+以及你的商业主张怎么样引导你的市场战略。
+5
+00:00:28,032 --> 00:00:31,741
+to drive your go to market strategies. And so you really
+所以你一定要很清楚你的目标客户，
+6
+00:00:31,761 --> 00:00:35,048
+have to know your target customer well enough to know
+为什么他们想要买你的东西而不是你的竞争对手的。
+7
+00:00:35,068 --> 00:00:39,197
+exactly why they would wanna buy from you as opposed to a
+
+8
+00:00:39,217 --> 00:00:43,666
+competitor. This is your value proposition and understanding
+这就是你的商业（价值）主张以及你对目标市场的理解。
+9
+00:00:43,686 --> 00:00:47,546
+this target market. Who they are in particular within the
+在大的市场中，他们（目标客户）到底是谁？你定位的人群到底是谁？
+10
+00:00:47,567 --> 00:00:51,355
+broader market is your positioning statement, And so
+所以，
+11
+00:00:51,375 --> 00:00:54,401
+understanding these two things, who this group of customers
+明白了这两件事，这群客户到底是谁？
+12
+00:00:54,421 --> 00:00:59,583
+are, and why this group wants to purchase from you is your
+为什么这群人想要花钱买你的东西？
+13
+00:00:59,603 --> 00:01:01,668
+positioning and your value proposition.
+就是你的定位（过程）和提出核心价值。
+14
+00:01:01,689 --> 00:01:05,137
+And this is going to help you to understand how exactly to
+这都会帮你理解怎么做市场和销售。
+15
+00:01:05,156 --> 00:01:11,772
+go about the sales and marketing process. And so the goal of
+
+16
+00:01:11,792 --> 00:01:15,540
+marketing, The goal of demand creation is in the feed these
+所以，市场的目标是，需求的建立它的目标是，在输送（价值）的过程中，
+17
+00:01:15,560 --> 00:01:19,319
+potentials customers into your sales funnel. And the
+你的这些意向客户进入你的销售漏斗。
+18
+00:01:19,338 --> 00:01:23,668
+particular details of the demand creation side and the sales
+需求建立中的一些特别的细节以及
+19
+00:01:23,688 --> 00:01:27,507
+funnel side are going to depend on your particular venture.
+销售漏斗都将主要取决于你的公司。
+20
+00:01:27,527 --> 00:01:31,706
+So I'm gonna describe them at a high level theoretical view
+所以我在这主要从理论的高度来描述，
+21
+00:01:31,726 --> 00:01:35,021
+but you need to take that and bring it down to earth and to
+但是你们自己需要把这些理论落到实地，
+22
+00:01:35,021 --> 00:01:42,118
+the details of your particular industry venture. So a lot of
+根据你自己行业和公司的具体情况来做分析。
+23
+00:01:42,138 --> 00:01:45,427
+people these days talk about viral marketing and I want to
+最近很多人都在讨论"病毒式营销“（viral marketing)
+24
+00:01:45,447 --> 00:01:48,575
+take a moment to point out that, viral marketing really
+这里我想稍微谈一下，
+25
+00:01:48,594 --> 00:01:52,263
+depends on having a product that does more than just satisfy
+病毒式营销主要取决于你的产品不只是满足了你的顾客，
+26
+00:01:52,283 --> 00:01:56,382
+customers that really amazes them. You have to please your
+并且让他们吃惊。
+27
+00:01:56,402 --> 00:02:00,510
+customers so much that their willing to essential do you?re
+你必须极度地取悦你的客户，使他们有强烈的意愿去帮你做市场推广，
+28
+00:02:00,530 --> 00:02:03,277
+marketing for you and talk to their friends and convince
+广而告之他们的朋友，说服那些人去够买你的产品。
+29
+00:02:03,297 --> 00:02:07,007
+them Other customers to actually purchase from you.
+
+30
+00:02:07,027 --> 00:02:10,765
+So I want to take a moment and show you a video from Jack
+所以我会花一点时间给你们看一段视频，
+31
+00:02:10,786 --> 00:02:15,916
+Dorsey of Square and he was also the founder of twitter and
+这段视频来自Square公司（美国著名的科技创业公司）的Jack Dorsey，他也是Twitter的创始人，
+32
+00:02:15,936 --> 00:02:20,076
+so he has some great thoughts on viral marketing. So this is
+今天他会和我们分享一些他对病毒式营销的看法。
+33
+00:02:20,096 --> 00:02:24,586
+Jack Dorsey, the CEO of Square and also co-founder of
+这是Jack Dorsey，他是Square的CEO，Twitter的联合创始人。
+34
+00:02:24,606 --> 00:02:28,936
+Twitter. When the markings charge you, we have not. We've
+当产品开始收费的时候，
+35
+00:02:28,956 --> 00:02:33,113
+not done any marketing whatsoever just yet. So a lot of it
+我们没有做什么市场，大部分都是靠客户的口口相传。
+36
+00:02:33,133 --> 00:02:35,883
+has been word of mouth. And what we discovered from that,
+我们从中学到的是，
+37
+00:02:35,883 --> 00:02:39,156
+and by the way, starting a start-up after Twitter is so much
+在Twitter后再创建一个公司会比之前容易一些，
+38
+00:02:39,176 --> 00:02:42,045
+easier than before because you have an amazing way not just
+因为你有了一个非常棒的方法，不只是推销你的产品，
+39
+00:02:42,066 --> 00:02:45,212
+to promote the product, but you get instant feedback of what
+并且你能很快地得到用户的反馈，
+40
+00:02:45,233 --> 00:02:48,416
+people s-, are feeling about it and, and what they, what
+他们到底喜欢它什么，不喜欢什么。
+41
+00:02:48,436 --> 00:02:49,686
+they like and they dislike.
+
+42
+00:02:49,686 --> 00:02:53,692
+And you can react very quickly to that. But, what we're
+然后你可以很快地对此做出反应。但是，
+43
+00:02:53,712 --> 00:02:59,224
+trying to do know is identify the key influencers in those
+但是你要在这众多的反馈中快速地找到核心的商业点。
+44
+00:02:59,245 --> 00:03:03,724
+merchant areas. And make them distribution points. So for
+然后尽快地分布。比如说，
+45
+00:03:03,745 --> 00:03:08,686
+instance there are 5000 taco trucks in Los Angeles and 300
+在洛杉矶有5000辆墨西哥饼卡车，每天有300个人到每个车去买玉米饼。
+46
+00:03:08,706 --> 00:03:12,995
+people per day go to each one of those. And ten to thirty
+
+47
+00:03:13,015 --> 00:03:16,704
+percent of those people have their own small business. And
+这些人中10%到30%都有自己的小生意。
+48
+00:03:16,724 --> 00:03:19,169
+this is not just small businesses; this is individual
+那这就不是一个小生意。
+49
+00:03:19,189 --> 00:03:23,539
+services like, teaching piano or cutting someone's grass or
+这是一种个人服务，好比教钢琴课，或者修理草坪，
+50
+00:03:23,560 --> 00:03:29,953
+a hairstylist. So does it make sense to ship 200 squares to,
+或者做一个美发师。那么给这些玉米饼卡车每个寄200个Square值不值？
+51
+00:03:29,973 --> 00:03:33,537
+these taco trucks, these 5,000 taco trucks and allow them to
+让这5000辆玉米饼车免费派送square或者买一个玉米饼送一个Square？
+52
+00:03:33,557 --> 00:03:37,771
+give this away for free or with the purchase of a taco? We
+
+53
+00:03:37,792 --> 00:03:42,282
+think it does. So, and then people discover, this is
+我们认为这是合理的。因为之后人们就会发现，这很有趣，我要怎么用这个玩意呢？
+54
+00:03:42,302 --> 00:03:45,256
+interesting but how can I use it? And then suddenly, I need
+然后突然，我需要在Craiglist上卖我的mac book，
+55
+00:03:45,256 --> 00:03:48,756
+to sell my Mac Book Air on Craigs List and I can take the
+我可以用我的个人信用卡而不用带着1200美金。
+56
+00:03:48,756 --> 00:03:50,623
+persons credit card instead of having them bring $1200 to
+
+57
+00:03:50,623 --> 00:03:51,623
+me.
+
+58
+00:03:51,623 --> 00:03:55,661
+Or, or whatever I'm selling it for. So, that's how we're
+或者，随便我要卖什么给你。
+59
+00:03:55,681 --> 00:03:57,316
+thinking about it right now.
+所以这是我们现在要想的。
+60
+00:03:57,336 --> 00:04:02,251
+>> A lot of what, a lot of the way I think about marketing
+很多的市场途径都是通过产品来实现的。
+61
+00:04:02,271 --> 00:04:05,514
+is through the product itself. So I think the marketing
+所以我认为市场的作用是，最好的市场推销途径是，
+62
+00:04:05,534 --> 00:04:10,806
+function, the best aspect, and the best it can do is surface
+
+63
+00:04:10,826 --> 00:04:14,541
+the product as much as possible, and, and to do that we're
+尽可能地想办法让你的产品显露。
+64
+00:04:14,561 --> 00:04:17,062
+doing this taco truck thing and we're also you know,
+所以我们的办法是用玉米饼车，当然，
+65
+00:04:17,062 --> 00:04:19,312
+purchasing Facebook ads and Google ads and doing the
+我们也去买Facebook的广告和google的广告，
+66
+00:04:19,312 --> 00:04:24,528
+standard thing and looking into you know, print media and,
+做很多的易拉宝还有纸媒等
+67
+00:04:24,548 --> 00:04:28,316
+you know the union of accountants because they might be
+还有一系列消费者联盟等，因为他们也有可能是关键因素，并且他们的一些交易
+68
+00:04:28,336 --> 00:04:32,555
+influencers and their trade magazines. So it surfaces the
+杂志也会起一定的作用。
+69
+00:04:32,575 --> 00:04:38,369
+product and then the product takes over. Getting people to
+所以这些手段都可以帮助曝光产品，然后让我们的产品占据主导。
+70
+00:04:38,389 --> 00:04:42,398
+buy your product starts with having a very clear vision for
+让人们来买我们的产品，让客户非常清楚地知道我们的产品到底哪好？
+71
+00:04:42,418 --> 00:04:45,846
+what the value proposition is why in particular the customer
+为什么这部分客户一定要买我们的东西？
+72
+00:04:45,865 --> 00:04:50,286
+buys from you. So if your customer is another business then
+如果你的客户是另一种情况，
+73
+00:04:50,305 --> 00:04:53,172
+buying your product has to result in some particular
+买你的产品可以帮助他们获得收益。
+74
+00:04:53,192 --> 00:04:57,502
+increase in profits for them. Or if your customer is a
+或者你的产品可以帮你的客户省钱（相对于他买另一种同类产品）
+75
+00:04:57,521 --> 00:05:00,889
+consumer, then it has to result in that consumer saving
+
+76
+00:05:00,909 --> 00:05:03,475
+money over what they would have done alternatively.
+
+77
+00:05:03,495 --> 00:05:07,995
+Or providing some other specific source of value to them
+或者提供给他一些具体的有价值的资源
+78
+00:05:08,015 --> 00:05:12,365
+that they couldn't have received in any other way. So, once
+一些他们通过自己的渠道够不到的资源。
+79
+00:05:12,385 --> 00:05:15,629
+you understand this, then that allows you to start running
+一旦你明白了这个，你就可以开始，我们叫，需求建立测试了。
+80
+00:05:15,649 --> 00:05:19,923
+some, what we call, demand creation experiments. And so you
+
+81
+00:05:19,943 --> 00:05:23,110
+want to think through, as Jack Dorsey pointed out, who are
+然后你应该想一想，像Jack Dorsey说的，
+82
+00:05:23,129 --> 00:05:26,959
+the influencers Are there particular bloggers or other
+有没有一些行业的风向导向标？可能是一些博主，一些舆论引导者，
+83
+00:05:26,978 --> 00:05:30,667
+particular people or organizations that might influence your
+或者是一些组织机构，他们说的话会很大程度上引导你的客户。
+84
+00:05:30,687 --> 00:05:35,298
+customer to buy. And then you can do what we call a bowling
+然后你可以用到”保龄球“策略。
+85
+00:05:35,317 --> 00:05:38,655
+pin strategy. So you might want to think up several
+你可以去想想很多你可以去做的实验，
+86
+00:05:38,675 --> 00:05:42,052
+potential experiments that you could run, what if we get
+如果你能让这些博客去讨论一下你的产品，
+87
+00:05:42,072 --> 00:05:46,021
+this blogger to talk about our product, or what if we buy
+或者你去买google关键词，
+88
+00:05:46,041 --> 00:05:49,930
+Google add words that say this, or what if we put this
+
+89
+00:05:49,950 --> 00:05:55,382
+particular add in a magazine. And so ideally you get one or
+或者你在一些杂志打广告。
+90
+00:05:55,401 --> 00:06:00,795
+a couple of initial customers to purchase your product. And
+理想的情况下，这些策略之后你引来了你最初的一部分客户。
+91
+00:06:00,815 --> 00:06:03,841
+these initial customers can then help you knock down the
+这些人就像保龄球里第一个被击倒的，可以帮你带动后面的球倒下。
+92
+00:06:03,861 --> 00:06:06,528
+other bowling pins. They can then help you get the
+他们可以帮你赢来后面的客户。
+93
+00:06:06,548 --> 00:06:10,416
+additional customers. So once you've got, let's say,
+所以一旦你得到了，比如说，facebook这个客户，
+94
+00:06:10,436 --> 00:06:14,055
+Facebook as a customer, then it's much easier to go to
+你可能很容易就会拿下twitter，
+95
+00:06:14,075 --> 00:06:17,824
+Twitter and say, Facebook is using our product. Shouldn't
+如果你跟Facebook说ttwitter在用你的产品。
+96
+00:06:17,843 --> 00:06:22,946
+Twitter be using it also? Or, you know, this famous
+难道twitter不应该去用吗？
+97
+00:06:22,966 --> 00:06:26,665
+celebrity is using our product, don't you want to use it as
+或者，一个名人在用我们的产品，你难道不想用嘛？
+98
+00:06:26,685 --> 00:06:31,504
+well? And so using these influencers or using these initial
+所以利用这些舆论导向者，或者最初的客户去影响后面的客户，
+99
+00:06:31,524 --> 00:06:35,223
+early adopters as reference customers can make it much
+
+100
+00:06:35,242 --> 00:06:37,658
+easier to make the subsequent sales.
+会让你后面的销售变得容易很多。
+101
+00:06:37,678 --> 00:06:41,466
+And so examples of potential demand creation experiments you
+还有一些你可能去尝试的创造需求的办法，
+102
+00:06:41,486 --> 00:06:47,149
+might run are, print advertising, email marketing, blogs.
+纸质广告，电子邮件直投，博客等。
+103
+00:06:47,169 --> 00:06:51,160
+Getting known in certain communities so Jack Dorsey, Dorsey
+逐步了解了这个圈子后，Jack Dorsey提到
+104
+00:06:51,180 --> 00:06:55,348
+mentioned the accounting, accountancy union or search engine
+客户，客户联盟，或者搜索引擎优化，
+105
+00:06:55,368 --> 00:07:01,603
+optimization or search engine marketing. And so on the web
+搜索引擎营销。
+106
+00:07:01,623 --> 00:07:04,870
+there are also particular demand creation experiments that
+你还应该尝试线上的一些手段和渠道，
+107
+00:07:04,890 --> 00:07:08,499
+you might run. And keep track of what works better and what
+然后去看哪个效果好，哪个不管用，
+108
+00:07:08,519 --> 00:07:12,899
+works worse. And keep doing more of what works better. So
+继续去做效果好的那个。
+109
+00:07:12,918 --> 00:07:15,564
+demand creation on the web can include search engine
+所以线上的需求建立包括：搜素引擎营销，搜索引擎优化，
+110
+00:07:15,584 --> 00:07:19,743
+marketing, search engine optimization, affiliates,
+关联化，
+111
+00:07:19,763 --> 00:07:24,434
+bantering. Search engine marketing is buying ads here or
+搜索引擎营销就是买线上广告。
+112
+00:07:24,454 --> 00:07:28,504
+here. Whereas search engine optimization is free if you can
+如果你能让你的产品在搜索引擎中保持前几位，那么搜索引擎优化对你来说就是免费的。
+113
+00:07:28,524 --> 00:07:32,192
+get your search result to be higher in the Google, search
+
+114
+00:07:32,211 --> 00:07:37,834
+results. So you want to try and keep track of your customer
+所以你需要不停去试，然后持续统计你获取一个客户需要花多少钱。
+115
+00:07:37,854 --> 00:07:41,663
+acquisition cost. So your customer acquisition cost is, how
+你获取一个客户的成本就是，
+116
+00:07:41,683 --> 00:07:46,403
+much money do you have to spend here, in demand creation, to
+你要花多少钱去创造客户需求，
+117
+00:07:46,423 --> 00:07:49,992
+get a paying customer here at the end of your sales funnel.
+你要花多少钱从你的客户漏斗中筛选出一个付费用户。
+118
+00:07:50,012 --> 00:07:57,019
+And so If this customer acquisition cost, is less than the
+所以如果这个客户获取的成本比你创造的价值少，
+119
+00:07:57,038 --> 00:07:58,812
+value that you're getting,
+
+120
+00:07:58,832 --> 00:08:01,697
+[inaudible] over the whole lifetime of a customer, then you
+在你能持续掌握这个客户的整个过程中，
+121
+00:08:01,717 --> 00:08:05,067
+want to invest more money in demand creation.
+那么你就应该花更多的钱在需求的建立上。
+122
+00:08:05,086 --> 00:08:07,923
+[inaudible] So this is why it's important to find relatively
+这就是为什么找到一种便宜的高效的需求产生方法如此重要的原因。
+123
+00:08:07,942 --> 00:08:11,992
+inexpensive and highly effective means of generating demand
+
+124
+00:08:12,012 --> 00:08:17,966
+creation. And so what about the sales funnel how does this
+那么销售渠道呢？这个要怎么才能让它凑效？
+125
+00:08:17,985 --> 00:08:20,973
+work. Once you've got these customers coming into your site
+一旦你让这些客户进入你的网站或者你的销售过程中来，
+126
+00:08:20,992 --> 00:08:24,521
+or coming into your sales process, how do you get them from
+你怎么使他们成为你的意向客户，继而最终转化为付费用户？
+127
+00:08:24,540 --> 00:08:29,882
+being potential customers to being paying customers. And so
+
+128
+00:08:29,902 --> 00:08:33,751
+if this is an enterprise software product then this might
+如果这是一个软件产品，你要从寻找符合条件的客户开始，
+129
+00:08:33,771 --> 00:08:38,582
+include starting out the customers qualified lead, having a
+接下来给这些人打第一个销售电话，或者登门拜访，
+130
+00:08:38,602 --> 00:08:42,571
+first sales call or visit with them, step of doing a
+接下来去给他们做一个产品演示，可行性检测，
+131
+00:08:42,591 --> 00:08:48,585
+demonstration. Feasibility testing, and then a proposal and
+然后是一个计划书，最后是一张订单。
+132
+00:08:48,605 --> 00:08:52,153
+a purchase order. So, whatever your venture is, you need to
+所以不管你的公司做什么，
+133
+00:08:52,173 --> 00:08:56,432
+understand how this sales process works, and what the pr-,
+你要明白整个销售过程是怎么样的，
+134
+00:08:56,452 --> 00:09:00,812
+what the steps are and who the key decision makers are in
+每一个步骤怎样？谁是每一步的决策者？
+135
+00:09:00,831 --> 00:09:03,980
+each step. And then you wanna organize those ideally in a
+你应该建一个表格，知道这个过程中你的客户都在哪。
+136
+00:09:04,000 --> 00:09:07,027
+spreadsheet so that you know where your customers are in the
+
+137
+00:09:07,047 --> 00:09:12,239
+process. On the web, this looks a bit different but the same
+对于线上，这个会稍微有点不同，但基本的思路都是一致的。
+138
+00:09:12,259 --> 00:09:17,230
+idea applies. So on the web, you have customers coming in,
+线上，你的网站会有客户来访，
+139
+00:09:17,250 --> 00:09:20,737
+they might land on your website, perhaps some smaller
+他们会登陆你的网站，
+140
+00:09:20,757 --> 00:09:25,107
+percentage of them actually log in or download the software.
+可能其中的一小部分还会注册和下载你的软件。
+141
+00:09:25,127 --> 00:09:28,836
+You get a first conversion. Maybe they start using the
+这样你就有了（和他们的）第一次的对话。
+142
+00:09:28,855 --> 00:09:33,737
+product or register for a subscription.
+可能之后他们开始使用你的产品并且订阅。
+143
+00:09:33,757 --> 00:09:37,319
+And so perhaps you can get them to pay once, but can you get
+可能你能让他们掏一次钱，
+144
+00:09:37,339 --> 00:09:40,011
+them to keep coming back and keep using the product for
+但你能不能让他们持续使用你的产品并且长期拥有这些用户？
+145
+00:09:40,011 --> 00:09:42,918
+longer? And so this is the total lifetime of, of the
+这就叫终身拥有这部分客户。
+146
+00:09:42,937 --> 00:09:46,641
+customer. So, even on the web, you can think about what
+所以即使是线上服务，
+147
+00:09:46,661 --> 00:09:50,806
+steps does the, potential customer have to go through to
+你要思考那些使你的意向客户转化成付费用户的每一步，
+148
+00:09:50,826 --> 00:09:53,783
+become a paying customer, and where do they appear to be
+你在哪一步丢了你的客户？
+149
+00:09:53,802 --> 00:09:57,158
+getting hung up in the process. And there are a number of
+还有很多软件产品，你可以持续跟踪他们，
+150
+00:09:57,177 --> 00:10:00,096
+software products where you can keep track of exactly what
+你应该看客户在你的网站上都点击哪些软件产品？
+151
+00:10:00,116 --> 00:10:06,621
+it is that users are clicking on as they visit your website.
+
+152
+00:10:06,641 --> 00:10:10,821
+And so pirate, pirate marketing techniques. You want to
+还有，盗版市场策略。
+153
+00:10:10,841 --> 00:10:16,232
+understand these, four main aspects in terms of web
+你应该明白线上市场有四个重要方面。
+154
+00:10:16,252 --> 00:10:19,991
+marketing. So the first is acquisition. How do you get
+第一是获取。
+155
+00:10:20,011 --> 00:10:23,159
+customers to actually come to your website? And so this
+你如何真正把用户吸引到你的网页上来？
+156
+00:10:23,179 --> 00:10:26,115
+could include social networks, this could include search
+这可能包含社交网络，包括搜索引擎，搜索引擎优化。
+157
+00:10:26,135 --> 00:10:29,813
+engine marketing, search engine optimization. It could
+
+158
+00:10:29,833 --> 00:10:34,644
+include affiliates who you partner with on the web. And so,
+还可能包括你网上的联盟有哪些？
+159
+00:10:34,664 --> 00:10:37,792
+once you drive customers to the site they then need to
+所以，当你把客户吸引到你的网页上，
+160
+00:10:37,812 --> 00:10:41,299
+become activated. They need to start using the product, or
+你需要他们保持活跃。他们需要开始使用产品，
+161
+00:10:41,319 --> 00:10:45,745
+log in, or sign up somehow. And so you need to keep track of
+或者签到，注册等。
+162
+00:10:45,764 --> 00:10:49,288
+that transition. Then there is also referral so this could
+所以你需要跟踪这个过程。还有推荐，
+163
+00:10:49,307 --> 00:10:54,149
+come from emails or social media, various forms of viral
+这个可以通过电子邮件或者社交媒体实现，
+164
+00:10:54,168 --> 00:10:57,235
+loops where customers can refer other customers perhaps
+各种不同形式地传播，客户和客户之间的传播和裙带联系。
+165
+00:10:57,255 --> 00:11:01,314
+through affiliates. So you wanna keep track of matrix around
+你也需要跟踪观察这个过程以及转化率，
+166
+00:11:01,334 --> 00:11:04,769
+what percentage of, of all your customers are doing this and
+你的客户中有多少这样做了，用什么样的方式去做。
+167
+00:11:04,788 --> 00:11:09,914
+through what mechanisms. There's then the conversion from,
+
+168
+00:11:09,934 --> 00:11:13,723
+landing on your site to actually generating revenue. And so
+然后下一步要把登陆你的网站转化程产生收入。
+169
+00:11:13,743 --> 00:11:16,088
+through what channels are you getting people who are more
+所以通过什么渠道可以让你的用户转变成付费用户？
+170
+00:11:16,088 --> 00:11:19,898
+likely to convert to be actual paying customers? And then
+
+171
+00:11:19,918 --> 00:11:23,956
+finally there's retention. So what systems do you have, and
+最后一步就是保住你的用户。你用什么实现？
+172
+00:11:23,975 --> 00:11:27,674
+what metrics can you use, to keep track of customers coming
+你能用什么方式，并且持续跟进这些回访用户。
+173
+00:11:27,694 --> 00:11:30,913
+back to your site. So this might be emailing them with new
+你可以通过发电子邮件的方法，让他们知道你的网站有了什么新功能，
+174
+00:11:30,932 --> 00:11:34,199
+features, or giving them some kind of mobile alerts.
+给他们的手机发提醒。
+175
+00:11:34,219 --> 00:11:37,408
+So think through what are the mechanisms that you can retain
+所以想一想那些你可以留住一个客户的办法，
+176
+00:11:37,427 --> 00:11:45,694
+a customer and keep them coming back again. So what we have
+让他们一次次回来。
+177
+00:11:45,714 --> 00:11:49,283
+been talking about are the demand creation and the
+所以我们上面讲的都是需求的建立过程，
+178
+00:11:49,303 --> 00:11:52,982
+purchasing and distribution aspects of the business model.
+是你商业模式中，用户够买和传播的环节。
+179
+00:11:53,002 --> 00:11:55,990
+So up until now, we have been talking about the customers
+到目前未知，我们已经谈到了商业模式中客户以及意向用户两个方面。
+180
+00:11:56,009 --> 00:12:00,208
+and potential users side of the business model. But we also
+
+181
+00:12:00,228 --> 00:12:04,398
+need to form hypothesis and run experiments on how to do the
+但是我们也需要提出假设并且去做调研看看应该怎样去创建需求
+182
+00:12:04,418 --> 00:12:08,005
+demand creation and how the purchasing and distribution
+怎么能让商业模式中用户够买和传播这两个环节奏效。
+183
+00:12:08,025 --> 00:12:14,009
+[inaudible] business model that work. And so particularly if
+
+184
+00:12:14,029 --> 00:12:16,615
+you have a physical product, but even if you have a web
+所以如果我们有一件实际的商品，即使是一个网上服务，
+185
+00:12:16,615 --> 00:12:19,933
+product, you have to think about the distribution channel.
+你要去思考分发渠道。
+186
+00:12:19,953 --> 00:12:22,799
+Are you going to have to partner with certain other
+你需不需要找一个合作者帮你把产品卖给客户？
+187
+00:12:22,819 --> 00:12:27,110
+organizations in order to get your product to actually reach
+
+188
+00:12:27,129 --> 00:12:31,259
+a paying customer? So if you had, let's say, a tablet, you
+所以如果你只有一小块，
+189
+00:12:31,279 --> 00:12:35,369
+might need to partner with retail stores or, websites such
+你可能需要联合一些零售商店，或者网站，比如amazon，
+190
+00:12:35,389 --> 00:12:41,471
+as Amazon.com to get the product actually sold. And so in
+让你的商品先卖出去。
+191
+00:12:41,491 --> 00:12:44,077
+understanding the sales channels, you have to understand the
+所以对于销售渠道的理解，你要知道销售的整个过程中谁是决策者，
+192
+00:12:44,097 --> 00:12:48,264
+sales process and the decision makers, and you have to run
+
+193
+00:12:48,284 --> 00:12:51,223
+experiments on these different sales channels and tactics to
+你要正对不同的销售渠道和技巧进行一些调研，
+194
+00:12:51,243 --> 00:12:54,611
+see what works and what doesn't in your particular venture.
+看看到底是那种方法奏效，哪个对你的公司不管用。
+195
+00:12:54,631 --> 00:12:57,256
+And so in your projects, I want to see evidence that you've
+所以在你的项目中，我想要看到你把你的具体假设如果转化成
+196
+00:12:57,256 --> 00:13:00,985
+been converting these hypotheses about sales channels and
+销售渠道，市场渠道的实际调研数据。
+197
+00:13:01,005 --> 00:13:07,179
+marketing channels into some actual data points. And so if
+比方说你有一款硬件产品，你的分发渠道可能是OEM（原始设备制造商）
+198
+00:13:07,199 --> 00:13:09,985
+you have a hardware product, your particular distribution
+
+199
+00:13:10,005 --> 00:13:14,915
+channels might be OEMs or system integrators. You might have
+或者是系统整合商，
+200
+00:13:14,935 --> 00:13:18,154
+to form a direct sales force or go through value added
+你可能要建立一条直销线，或者建立销售附加值，或者通过经销商。
+201
+00:13:18,174 --> 00:13:22,124
+resellers or through dealers. And so I want to see evidence
+我想看到你的证据证明你去验证你的商业模式这个过程，
+202
+00:13:22,144 --> 00:13:24,468
+that you've thought through this aspect of your business
+
+203
+00:13:24,468 --> 00:13:27,394
+model and actually gone out and talked to some of these
+你要真正地走出去和这些人去聊，看看他们是不是真的想要你的产品，
+204
+00:13:27,414 --> 00:13:30,602
+people to see if they would be willing to carry your product
+
+205
+00:13:30,622 --> 00:13:33,668
+or what it would take for them to become a distribution
+看看他们帮你卖产品要从你这拿什么东西？
+206
+00:13:33,688 --> 00:13:38,321
+channel for you. And so in choosing these distribution
+所以在选择分销途径的时候，
+207
+00:13:38,341 --> 00:13:41,067
+channels, you have to be careful in thinking about this
+你要仔细想清楚这个渠道对你整个商业模式意味着什么。
+208
+00:13:41,086 --> 00:13:45,526
+aspect of your overall business model. So the customer wants
+对于消费者来说，不管用什么方式买产品，他们只想付出同样的钱。
+209
+00:13:45,546 --> 00:13:48,372
+to pay the same price no matter what channel they get your
+
+210
+00:13:48,372 --> 00:13:52,263
+product through. But depending on your channel, you might,
+但是对你来说，用什么渠道把产品卖出去对你的收入影响会很不同。
+211
+00:13:52,283 --> 00:13:55,409
+you might wind up getting different amounts of revenue from
+
+212
+00:13:55,429 --> 00:13:58,706
+that channel. So if you partner with a retailer, they're
+所以如果你和一个零售商合作，
+213
+00:13:58,726 --> 00:14:01,423
+gonna want a piece of this transaction. And so you're only
+他们就想从你那分一块利润。
+214
+00:14:01,423 --> 00:14:05,552
+gonna get maybe 50 percent of the value. If they buy
+所以你的实际利润可能只有50%了。
+215
+00:14:05,572 --> 00:14:08,759
+directly through your company, you might get the entire
+如果他们直接从你公司买，你可能会卖出你所有的东西，
+216
+00:14:08,779 --> 00:14:12,749
+amount but you might also need to hire a sales force.
+但是你可能需要雇佣一个销售团队。
+217
+00:14:12,769 --> 00:14:15,894
+If you go through websites like amazon.com they are
+如果你选择像amazon这样的渠道，
+218
+00:14:15,914 --> 00:14:20,125
+similarly going to take a piece of this revenue that's
+他们也会吃掉你的一部分来自客户的收入，
+219
+00:14:20,144 --> 00:14:24,403
+coming in from the consumer. And so you also need to think
+所以你也要好好想一想，
+220
+00:14:24,423 --> 00:14:26,990
+through if you are building say a hardware product or even a
+如果你拥有一块产品或者一个网络服务，
+221
+00:14:26,990 --> 00:14:31,240
+website what you are then paying out to the component
+你打算拿什么来给那些提供给你零件让你的产品最终成型的供货商？
+222
+00:14:31,259 --> 00:14:34,698
+suppliers who give you pieces of this product that go into
+
+223
+00:14:34,718 --> 00:14:40,771
+the final product. And so in this example, you might think
+所以在这个例子中，你应该仔细想清楚如何在博客，论坛或者建立销售团队来
+224
+00:14:40,791 --> 00:14:44,910
+through in your demand creation experiments with blogs or
+创建够买需求，
+225
+00:14:44,930 --> 00:14:50,764
+forums or promotion via sales force, what the acquisition
+这个获取用户的成本又是多少？
+226
+00:14:50,784 --> 00:14:52,499
+cost for the customer is.
+
+227
+00:14:52,519 --> 00:14:56,496
+And so if it costs you $41.00 to get a new customer and you'
+所以如果得到一个顾客你要花$41,
+228
+00:14:56,516 --> 00:15:00,616
+re going to be taking in somewhere between $200 and $400 on
+你打算在那个用户身上赚$200到$400，
+229
+00:15:00,636 --> 00:15:03,764
+that customer, then you should be investing more money in
+那么其实你应该花再多一点钱在获取那个客户身上。
+230
+00:15:03,783 --> 00:15:10,645
+customer acquisition. So what do you need to keep track of
+你持续跟踪这个客户又要花多少钱？
+231
+00:15:10,665 --> 00:15:13,165
+in all this? What are the metrics? We've already been
+方法是什么？
+232
+00:15:13,165 --> 00:15:15,841
+talking about some of them, but you need to keep track of
+我们已经谈了一些了，
+233
+00:15:15,841 --> 00:15:18,846
+the movement of your customers, through your sales funnel.
+但你应该通过你的销售漏斗，跟踪客户的活动。
+234
+00:15:18,865 --> 00:15:23,106
+And so they go from being registered to being users to
+他们从注册，到变为用户，到实际付费，
+235
+00:15:23,126 --> 00:15:26,635
+actually paying. Where, where are they getting hung up? So
+他们在哪个步骤停止了？
+236
+00:15:26,655 --> 00:15:28,480
+what's your customer acquisition cost?
+你客户获取成本是多少？
+237
+00:15:28,500 --> 00:15:31,817
+What are your marketing costs? What's the lifetime value of
+你的市场成本是多少？
+238
+00:15:31,836 --> 00:15:34,823
+getting a customer? And what's the viral coefficient? What
+你获取一个客户的时间成本是多少？关键的协同因素是什么？
+239
+00:15:34,843 --> 00:15:38,361
+percentage of your customers refer other customers who wind
+你的客户跟其他人推荐你的产品的比例是多少？这些人又有多少成为了付费用户？
+240
+00:15:38,381 --> 00:15:43,333
+up becoming paying customers? You also need think through
+
+241
+00:15:43,353 --> 00:15:46,461
+the customer life cycle. You should know your customers well
+你也要思考客户的使用周期。
+242
+00:15:46,480 --> 00:15:50,340
+enough to know exactly how their using your product At what
+你应该对你的客户足够了解到他们究竟怎么使用你的产品，
+243
+00:15:50,360 --> 00:15:53,898
+point and why their registering, at what point their
+使用到什么程度？为什么他们注册？什么时候他们上传数据到你的网站？
+244
+00:15:53,918 --> 00:15:58,236
+uploading data to the site. What makes them share the site
+
+245
+00:15:58,256 --> 00:16:01,434
+with others, what makes them what actually order, how much
+为什么他们要和别人分享你的网站？这个过程要花多长时间？
+246
+00:16:01,454 --> 00:16:04,761
+time elapses. So you should really understand the customer
+你需要真正了解客户的整个产品使用周期，他们如何使用产品，他们在你的网站如何活动。
+247
+00:16:04,781 --> 00:16:08,470
+life cycle and how they use your product or how they move
+
+248
+00:16:08,490 --> 00:16:13,071
+through your website. That's it for this video on
+这就是这节课关于销售和市场的知识。
+249
+00:16:13,091 --> 00:16:14,091
+entrepreneurial sales and marketing.
+
+
+
+

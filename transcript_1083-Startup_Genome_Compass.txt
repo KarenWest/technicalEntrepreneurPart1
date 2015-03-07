@@ -1,0 +1,199 @@
+[00:00:00]
+[SOUND]
+Stanford University.
+>> Hello and welcome back to E145 Technology Entrepreneurship. I have a couple of special guest that I'm excited to introduce to you today, Max Marmer and Bjorn Herman. They're from the Start-up Genome Project, and the goal of the Start-up Genome Project is to try and map the DNA of entrepreneurship and innovation in Silicon Valley.
+
+[00:00:30]
+And so like to bring them in, and I'll ask them a couple of questions, and then turn things over to them to explain to you what they've found. So Max and Bjorn, thank you very much for joining me today. And so how did you guys get started with this project?
+
+[00:00:47]
+How did you meet, and what was the inspiration for this Start-up Genome?
+>> I think that's a long story, but can keep it short with the inspiration which was simply seeing the massive explosion of entrepreneurship globally. And also that this explosion of entrepreneurship had a massive impact on our economy.
+
+[00:01:10]
+More than 90% of all job growth in the US comes from high growth ventures, most of them being tech ventures. And, at the same time we saw there was an enormous failure rates, more than 90% of these startups fail. And most the time they fail, because of self destruction rather then competition.
+
+[00:01:28]
+And that's where we started thinking, well isn't there maybe a way of how we can solve this problem and reduce this failure rate in a scalable way. And initially we saw accelerators who were able to overcome some of this failure rate, and then we saw companies like Zynga that took a more data-driven approach in overcoming the failure rate of the new games that they released.
+
+[00:01:53]
+And started to put a lot of these different puzzles together, and eventually the Start-up Genome came out.
+>> Great, great. And, and so, Max, we first met when you were a student at Stanford.
+>> Yeah.
+>> [LAUGH]
+>> So how did, how did you get started with us and, and what's and what's been exciting to you about what you found.
+
+[00:02:11]
+
+>> Yeah, I think a few years ago was trying to find a really big problem that I could sink my teeth into. And was spending a lot of time looking at accelerating technological change and, and seeing this exponential increase in the power of technology to, in our society and, and, and it's a main driver in changing society throughout human history.
+
+[00:02:33]
+And it was how do I, how do I participate in this trend? And basically saw that most of the technological innovation was being carried out into society by tech start-ups. But at the same time, as Bjorn mentioned, there was this very high failure rate. So it's how do we come up with a more systematic way of increasing the success rate of start-ups?
+
+[00:02:54]
+And at Stanford I was doing a independent study with Steve Blank and looking at I thought he had the first really new innovative approach for looking at start-ups in a more rigorous scientific way with his book, Four Steps to Epiphany. And that sort of circulated all around the Valley and was called the bible for entrepreneurs, and I was like, oh yeah, this, this is what I've been looking for.
+
+[00:03:17]
+And that was sorta the, the initial starting point and we've started to synthesize a lot of the ideas from many different startup thought leaders, from Steven Blank, to Eric Ries to Alex Osterwalder and Sean Ellis. And, basically trying to build a more generalized model on understanding of, of how start-ups work and how they evolve.
+
+[00:03:41]
+And then build things that are very applicable for entrepreneurs to to use on a daily basis.
+>> Great. Well, I think this is a really exciting project, and I think this is really valuable, useful stuff that you guys are working on. So, let's get into some more of the details of it, and have you guys present what you found and what your advice is to start-ups out there to increase their success rates.
+
+[00:04:03]
+
+>> Yeah, sounds good.
+>> Max and I are going to talk about the key learnings from the Start-up Genome Project. We have, by now looked at more 15,000 companies, and have assembled two reports and launched a first software application, that allows you to assess your own company. And the following slides are based, on that research that we've been doing all over the past year.
+
+[00:04:29]
+The key problem that we've identified with, with software start-ups over the last year in our research, is that, the key reason for failure is premature scaling. Which is basically a proxy for assessing how well a company mitigates risk, and overcomes uncertainty. And, and the key solution that we have found, is learning which is basically means, how fast can you learn from your ecosystem, from the environment, especially from your customers in what's the right value position?
+
+[00:05:03]
+What's is the right pricing? What's the right team to execute, et cetera, et cetera? Now, Max is going to talk about how we assess premature scaling.
+>> Yeah, one of the primary problems of why companies end up prematurely scaling, is because they create a plan, and then just end up executing it and scaling right away because that's what a lot of traditional business management theory has taught.
+
+[00:05:35]
+The problem is start-ups have so much uncertainty that many of the assumptions in the plan end up being wrong. And so what what premature scaling is a, is a metaconcept of more systematically defining the stages that companies evolve through, and helping them test their assumptions more incrementally. So to break down a little bit more concretely how premature scaling works, we basically look at the start-up as a type of organism that exists in a environment.
+
+[00:06:12]
+And the organism, of the start-up evolves through four developmental stages. So those four stages are discovery, validation, efficiency, and scale. And basically in the discovery phase, a start-up is trying to figure out whether they have problem-solution fit. So they're trying to understand whether they understand the problem correctly, whether people actually have this problem, and whether their solution hypothetically solves that problem.
+
+[00:06:43]
+In the validation stage, they're working on putting out minimum viable product, something that actually gets something in front of customers so that they can run real quantitative experiments and see if people actually like it. In the efficiency stage, start-ups are have already found product market fit. And they're just working on optimizing a lot of the, the product from the user experience in the back end, to the customer acquisition models.
+
+[00:07:13]
+And then finally, once all of that is figured out, they can step on the gas pedal, and scale. So the problem with what, which companies often do, is they don't align this external feedback from, from the market which are the, which we place in these buckets of discovery validation, efficiency and scale.
+
+[00:07:32]
+They don't align that with the internal dimensions of the company that they can control. So, they scale the, the team up to 20 or 30 people, and they haven't launched a product yet. Or they write a very complex product and haven't talked to anyone about whether they want it.
+
+[00:07:51]
+So we actually look at each of the dimensions of the company. We have five, they are the business model, of the financials, the team, the product and the customer relationship. And we look at how far along a company is on each of these dimensions, and try to access whether it's in line with the response they're getting from the market.
+
+[00:08:12]
+So one of the best examples of a company that's done this recently prematurely scaled is, is Color. Where they, they were in the validation stage from their response from the market, in that they just put out a first prototype of what they thought was a good application to end the sorta local social network market.
+
+[00:08:37]
+But the problem was that they launched a huge PR campaign, they raised over $40 million in metro capital, and they had a large team of over 20, 30 people. And this basically they launched this product, and it turned out that people weren't as interested in it as they thought.
+
+[00:08:56]
+They ran a huge campaign for the royal wedding in London and there were almost no pictures taken. And this makes the company much less able to adapt when they have when they invest so much in, in these big plans with 20 or 30 people. And that what the theory of, of premature scaling recommends and, and what we advocate is to take a more systematic approach.
+
+[00:09:25]
+Where they would of released this minimum buyable product with just a few users, tested it got the value proposition right, started to optimize the user experience. And only then would they scale because this allows them to more systematically fine tune a lot of the assumptions of what their business is going to be.
+
+[00:09:45]
+
+>> Yeah, and I guess two theories that go align, in line with the idea of premature scaling, and that are more specific in how you can overcome premature scaling, as the new start-up from Eric Reese, and customer development from Steve Blank. Now let's talk about a few sort of differences that we have found in our data between companies that scale maturely, versus companies that scale prematurely.
+
+[00:10:17]
+And you can see here the difference in like the, let's see the blue bars in all the following slides, always are the companies scaled properly. Red ones are, the companies that scale prematurely. And what you can see here, is that the companies that scaled prematurely never really overcome the one million in revenue.
+
+[00:10:44]
+They get stuck before. Which means, that they are still, they can be successful in some way, but they hit the limit and don't move beyond that. And, what we can also see is that companies that scale prematurely, have even a much faster user growth in the beginning, but then drop off.
+
+[00:11:06]
+And companies that scale properly, and go through this whole systematic cycle of doing customer development, understanding, value postion, et cetera. Have a little bit smaller user growth in beginning, but then take off in a much faster and are much ore successful than companies that scale prematurely. We can see a very similar trend in valuation.
+
+[00:11:26]
+We can see that companies that scale prematurely overvalue themselves enormously in the beginning but then turn off turn out to be much less valuable later on. You can also see the same trend in funding. The companies that scale prematurely raise much more funding, typically people who, who, who like very excited and, and and convinced of their idea.
+
+[00:11:55]
+But they didn't really test it. And they didn't like really figure it out. So, they kept much of money, early on. But then they faill when they have to scale. So summing up start-ups are exposed to an overwhelming uncertainty, which means they don't know what their market will be.
+
+[00:12:16]
+They don't know the pricing. They don't know the exact value position, to what kind of customers. They don't know what is their team. They don't know how their product will work and how big it will get, or what are the key features and so on. And all of these things they have to find out.
+
+[00:12:32]
+And that describes a search process that Max discovered early in those four stages where we put start-ups as we assess them. And the big challenge for a company to overcome this uncertainty, and to understand all the things they don't know in order to mitigate risk and to overcome all the challenges they have ahead of them, and to become eventually a large company.
+
+[00:12:58]
+Now, there's a number of ways of how you can learn for yourself to identify premature scaling on your start-up, or on your friend's or other peoples' start-ups.
+>> Yeah, so we can see that companies that are scaling prematurely, often monetize a much greater percentage of their user base early on.
+
+[00:13:23]
+And this is a problem because start-ups that often trying to monetize earlier are in much more of a execution mindset, rather than a search mindset. And the, the first three stages of a start-up discovery, validation, and efficiency, are really characterized by this search process rather than an execution.
+
+[00:13:44]
+And when companies get too stuck on trying to monetize they lose a lot of their listening ability and ability to adapt, because they're so focused on selling rather than listening and figuring out what works and what doesn't.
+>> Yeah, so you will always meet founders who are really pushing to make money, and that's fine, they probably will make money.
+
+[00:14:12]
+But if you want to build a high growth company, really the key asset of the company is the value position that you have to your customers. And if you push too early or too much towards making money instead of trying to figure something, figure out what exactly your value position is going to be, you're much more likely to scale prematurely.
+
+[00:14:35]
+Start-ups just to add one more, more point there. Growth curve and revenue curve are, are hardly ever linear. So it's really about getting the the product right, getting the customer acquisition right, and only then stepping on the gas pedal, and that's when you see the the hockey stick type growth.
+
+[00:14:54]
+
+>> Another really interesting indicator we've found with a lot of companies that scaled prematurely, is that they came to outsource a lot of their devel, or much more of the development than companies that scaled properly. And the, just from our personal experience of building companies and of working with a lot of start-ups hands on, and the typical profile of, of companies that we see that outsourced their development, are people that don't know how to build the product.
+
+[00:15:23]
+And, and the result is that you, the feedback loop from talking to your customers and learning how you should change your product to actually implementing those change into the product becomes very, very long. Which means becomes very complicated and there's a lot of friction that's created for especially in the early stages were you do a lot of changes all the time, and which then leads to a constant trade off.
+
+[00:15:49]
+Should you spend time and effort and to talk to your outsource developers to change something in their product, or should you just focus on, on, pushing do what you are good and talk to customers and, and so let developers go. and, and the result is typically that you have some, result of that is typically that the product turns out not to be as good as it should be.
+
+[00:16:18]
+
+>> Yeah. Outsourcing just really decreases a start-up's ability to adapt, because now there's a much longer feedback loop from hearing something from customers to then having to change the specs to the out source firm. And start-ups really, in these early stages, want to increase their learning, their feedback loop and, and experimentation cycle of experimentation, so they're doing a lot of experiments very quickly.
+
+[00:16:45]
+Another very important distinction that we've seen to identify companies that are scaling prematurely versus ones that are scaling properly, is that ones companies that scale prematurely often focus on product development, rather than customer development. So they again have more of a execution mindset, where they just want to build a product that they think will work.
+
+[00:17:10]
+And there's not as much listening to customers trying to figure out if their vision is actually something that people want to buy and will buy into, and they, they consequently, are, are much less adaptive.
+>> Yeah. We can see the, the result of, of that slide, and can be seen here, where we measured of experimentally in the, like the, the amount of lines of codes written by different companies in different stages.
+
+[00:17:49]
+And what we can see is that companies that scale prematurely tend to write lots of lines of code very early on much less than companies that scale properly. And the, the typical expression of this you will, you will see with engineers especially who start the companies and who know exactly the type of features that the company or that the product needs to have to actually be a value position to the customers.
+
+[00:18:20]
+And they spend one year, two years to build out this perfect product. Which only then they start testing with the customers and they find out that it actually doesn't work and, and that's what you can see very explicitly here, where companies already in the first stage tend to write huge amounts of code before they have even validated their product.
+
+[00:18:45]
+
+>> Alright. The, the goal for entrepreneurs here is really to test their assumptions as fast as possible, and minimize waste where they where they write code that they end up having to throw away, because it doesn't meet any need that that in the market.
+>> Yeah, and I guess that's normal for almost every single start-up that they will rewrite the code a few times and, and will have to throw out a lot of features that they've spent lots of time on developing.
+
+[00:19:14]
+Another big difference in the, of characterizing companies that scale prematurely versus companies that scale properly is, is their self-reported valuation. Where we can see that companies that didn't really go through this reality check of talking to the customers many times over-value their company to a huge degree. And it's normal that in the beginning this happens.
+
+[00:19:40]
+As we can see also companies that scare properly over-value themselves. But it happens to a much greater degree with companies that scale prematurely.
+>> One of the, another reason why this valuation is so out of whack with companies that scale prematurely, is many times these founders commit this mental fallacy where they mix up the present, with the future.
+
+[00:20:07]
+Where they imagine the the company being worth $100 million, or $1 billion, And they think they're worth that much today. And this creates a lot of confusion when they're talking with investors, and just splitting up equity with other co founders. They, they don't recognize that they haven't even launched anything yet, and their company is not anything close to that yet.
+
+[00:20:29]
+
+>> We can see a strong trend for companies that scale prematurely to spend a lot more money or customer acquisition before they have gone through like a cost optimization. That typically happens in what we call efficiency stage, stage three. Where after you've validated your product, you go and you try to optimize your input/output, before you start pushing in a lot of money.
+
+[00:20:55]
+So we can see that here, companies that scale prematurely tend to overspend and before they have done this, and that's practically throwing money out of the window without any effect. And yeah, you can see here that, that especially in the 100,000 plus spendings per month, it's mostly premature, it's mostly companies that scale prematurely that are here.
+
+[00:21:22]
+
+>> Yeah, the focus in the, in the early days of the company, the first three stages are, are again, really about testing initial assumptions, going through a search process, and customer acquisition is much less relevant, for until you get the model right. Then that's the time to to step on the gas pedal, and really invest in growing the business.
+
+[00:21:47]
+
+>> Yeah, basic, you can learn, depending what kind of business you are, you don't need millions of users in order to get your model right. You just 50, maybe a few thousand and that's enough. So you don't really need to spend a lot of money on custom acquisition, to get a critical mass of people to work with.
+
+[00:22:08]
+And to get the product to a level where it makes sense to spend a lot on customer acquisition. Now, summing up the, key findings from our research has been that the key challenge that companies have is this overwhelming uncertainty of not knowing where they're going, or what they're doing, and who they'd doing this with.
+
+[00:22:32]
+And, and the key reason for their failure premature scaling which basically describes companies very typically, very effectively executing something that is completely unnecessary. And then investing a lot resources into something, and that turns out to be a waste of money later on, and the key, my strategy of overcoming this is to try to learn as much as possible in a very systematized way.
+
+[00:23:00]
+And there's two thought leaders that have written a lot about that who's one of them is Steve Blank who wrote about customer development, and a more structured way of of testing your assumptions with your customers. And then The Lean Startup from Eric Ries that is also talking on about that.
+
+[00:23:21]
+And you can read more on all of these topics on our website. It's at compass.co and blog.startupcompass.co. We have two research reports that we published on the blog and, and we have an application that will allow your start-up to, to see whether you are scaling prematurely or not.
+
+[00:23:44]
+And if you have any questions send us an email at feedback@startupcompass.co, or, you can follow us on Twitter. Thank you.
+>> For more, please visit us at stanford.edu.
+

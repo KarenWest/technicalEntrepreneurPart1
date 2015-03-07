@@ -1,0 +1,111 @@
+[00:00:00]
+[SOUND] Stanford University.
+>> So welcome back to E145, Technology Entrepreneurship, and this next video in the customer development series I'd like to introduce an entrepreneur Jason Friedman. He is a co-founder of Flight caster, and is now doing his next start-up, 42 floors. And I'm excited to have him talk to you in a bit more detail about some of the lessons he's learned as a successful entrepreneur.
+
+[00:00:32]
+
+>> I want to spend a few minutes with you guys today and just give you three brief stories, each of which showed a lesson. On, how I built my last companies. I've been an entrepreneur for four years. I've had, some successes and some failures and, I don't know, we all go through the same process, so hopefully this will be helpful to you.
+
+[00:00:51]
+Please feel free to reach out to me and give you my contact information here. Would love to be helpful to you as you build your companies. When your name is in Tech Crunch and the word acquires is there, it's generally a pretty good thing. And we got acquired, Flight-Caster got acquired after several years of building it, and it was pretty awesome, especially after we had failed several times as a team before.
+
+[00:01:12]
+Before you talk about what made it work with Flight-Caster, let's back up and I'll, I'll show you a bright [SOUND] young entrepreneur, age 18, freshman at a university. Who really thought that the most important product that anyone could ever want was a loft, and so I built student lofts.
+
+[00:01:28]
+This was an outstanding company, and for those of. You that are building technologies that will change the world, I applaud you. But at 18, what I thought was most important was helping people put their beds six feet above so they could fit a couch below in their college dorm room.
+
+[00:01:43]
+And student lofts, was probably the best. Beginning of a company I've ever done, because all it was was a problem that needed to be solved and had a super simple solution that I could then provide and charge money for. And we really get caught up in disruptive technologies, and network effects, and trying to create moats around what we build, and how are we going to create the next big thing.
+
+[00:02:08]
+But at their core, all companies have one fundamental thing in common, and that is that you are solving a problem with a product that people want. And, you know, Flight Catcher, when, when we did that, it was Y Combinator funded, Paul Graham, head of Y Combinator, he makes us wear these shirts that have this one fundamental lesson.
+
+[00:02:28]
+Which is, make something people want, and everything else you do, if you're talking about venture capital or fundraise, fundraising, or advisory boards, or how you're integrating new technology. Every one of those thousands of decisions you make, if make something people want is the single most important thing you do, then everything else will work itself out.
+
+[00:02:48]
+And it's [INAUDIBLE]. Are a little college company. We made something people want. And we made a lot of money from it. And we were really happy with how the business turned out. And, at times I think our entrepreneurial community gets caught up in certain trends that that lose sight of that.
+
+[00:03:06]
+So with that I show you my next company. This was open vote. And this was part of the social networking web 2.0 craze of, of 2007 and 2008. What we created here was, a site that would allow people to talk about co, conversations within their college and we raised some money and we worked really hard on building a site.
+
+[00:03:27]
+And tons of people used it. And we were looking at it as we were going to try to become, you know, the next big Facebook. And lots of people had advice for us. So in this company, because we were further along and we had already done some work.
+
+[00:03:41]
+We really felt that working with advisers was really important and raising money was really important. We spent a tremendous amount of time on that. And that. And one of things we did is we got a lot of advice. And when you're building your first start-up, we realize that there's so much stuff you don't know that you have, so much respect for anyone that can give you advice.
+
+[00:04:03]
+And there are lots of really well intentions people that will give you advice that for them is good. So one of the best examples I have of this is. We were learning how to, like just build a product development of our site and people who formally were at large techs like IBM or Microsoft were giving us advice on how you do tech specs and how you build a development process.
+
+[00:04:28]
+That's really bad advice for a start up when. You know, agile development at that point was not yet a buzz word, and really, it was the emerging trend that we should have been doing, which is, let's just keep all of our development cycles really short and build something really quickly.
+
+[00:04:44]
+But it really, it taught me an important lesson. This company ended up failing, and it was horrible, miserable, and I hated every minute of it. But the most important lesson I learned out of there was, [SOUND] it is the entrepreneur's responsibility to get good advice and avoid bad advice.
+
+[00:04:57]
+You will get lots of advice. That is an, like an absolute true-ism. Whether you can decide, whether you can figure out which of that advice is good is totally on you, and you can't go blaming people who gave you bad advice when. They just, they weren't running your company.
+
+[00:05:15]
+So I, I have a few suggestions. Lots of these, hopefully you're already familiar with but. You know, when you're looking for good advice, the single most important thing about searching for advice is to do, is to find people who have recently been in your shoes. I like to think of 18 months as the ideal start-up adviser time frame.
+
+[00:05:32]
+18 months ahead of you means, if you're just starting your company now, maybe your adviser just raised their series A, or just hit product market fit. Or if you've already raised your series A, then your adviser just raised their series B. They're only a couple steps in front of you.
+
+[00:05:49]
+And so the, the names on this, on this list just. They're all guys who know how to write that way, Paul Graham being one of my favorite, his essays on PaulGraham.com/essays are, it's like a frequently asked questions book of everything that you want to go through with a star tup.
+
+[00:06:07]
+And if you're raising money, VentureHacks, they're writing some of the best stuff out there on How you actually raise money from the perspective of like, being on the sand hill shuffle, raising around. Obviously most of the people, hopefully in this video, are well familiar with Steve blank. The customer validation is now a process that we can all follow and.
+
+[00:06:30]
+It's always amazing to me, when I talk to an entrepreneur who's working so hard on their product, but they haven't read through these particular people. Well when I find that, it often correlates with them having wasted tremendous amounts of time. And your goal in being an entrepreneur is to seek out the really good advice.
+
+[00:06:49]
+That allows you to save time, because time is what is going to kill you. If you don't reach product market fit it won't matter whether you have money left after enough time you're just not going to get there. The emergence of incubators has also really helped this and what, Y-Commodator's done with their incubator is its helped people unlearn bad.
+
+[00:07:10]
+Habits. So, I came out of business school, and I had learned a whole bunch of bad habits. For instance, I'd learned how to do a Power Point, [SOUND] and start ups don't do Power Points. Start-ups build products that people want, and then investors really like it because of that, and then, after that, you build a Power-point that shows a graph going up and to the right.
+
+[00:07:29]
+But when business school students think that they can write a power-point talking about their dreams, they're living as if it's 1999, and that still counts, and it doesn't any more. And what, what combinator does, is it puts you in a group full of people, and teaches you that.
+
+[00:07:42]
+So, what happens if you're not in my Combinator? They made all that stuff free. You can go on news.ycombinator.com and read about it. Through hacker news. Or, you can go to start up school, which is often hosted at Stanford. But it's free. And, if you can't even get there, all of it's online.
+
+[00:08:00]
+Those are all pieces of advice from people who are 18 months ahead of you. And, they can copy, contrast that with some very senior person giving you guidance in building a company because they took their company public two years ago. Which they may be great for introductions but they're not gonna give you the best advice.
+
+[00:08:18]
+So, after failing open vote, we started flight-caster, and we did it as a Y Combinator company. And Flight-caster, was our efforts to solve the problem of, of flights being delayed. We predict delays six hours before the airline alerts. And we can do that with a series of, mathematical algorithms and a great data managing.
+
+[00:08:40]
+And it's a sweet product. And, the biggest thing that was helpful than building [INAUDIBLE] which ended up being venture back and we had a lot of user and we ended up selling it is that all companies kinda follow the same process. This is an epic picture that a lot of companies in, in Silicon Valley know.
+
+[00:09:00]
+This is the process you will go through, we went through and everyone else does. Your Tech Crunch of Initiation, you thought was this destination, it's where your user. [INAUDIBLE] Massively, and everyone in your life tells you how proud they are, of this thing that you built. And is follow like, hours later with the wearing off of novelty, where all your users go away, until you are four days later and people are still congratulating you.
+
+[00:09:23]
+And you were the only one who knows, that fourteen people visited your site yesterday, and you know you are in trouble. And that is when you're finally starting to be a real entrepreneur, which is you have hit the trough of sorrow. And that is the time when customer validation is most important, because everything you thought about your company is wrong.
+
+[00:09:40]
+And for Flight Castro that was absolutely true. It took us forever to figure out where all these problem were. And then finally after months and months of works, we had the. You know, this imminent release of improvement moment, which was followed like, hours later by the crash of ineptitude.
+
+[00:09:57]
+And this is so typical, and it's helpful to know that it's typical because if you quit here, you're not quitting because your idea didn't work, you're quitting because you decided to quit. [UNKNOWN] Castro we did not decide to quit. And through some wiggles of false hope and a lot of luck we hit the promised land.
+
+[00:10:13]
+[SOUND] But we did that by trying lots and lots of new things, and that's the third big lesson, which is optimization is not iterating. If you're going to be changing things, actually change them, and err on the side of making really big changes to your business model, because that's the only way to iterate towards a brand new product that's going to change the world.
+
+[00:10:31]
+Optimizing is what people do when they're all ready successful. So that's my little spiel. [SOUND] Now I'm working on a new company, 42 floors we gonna fix the way people search for commercial real estate. Same process, same customer validation. Maybe fund raising gets a little bit easier but everything else is the same.
+
+[00:10:49]
+Start ups are tough. But we want to make [SOUND] it so that when you go searching for your 870 square foot. Office, we're gonna be the ones that help you find it online. [SOUND] So, my name's Jason Freedman, I'm happy to help any entrepreneurs out there who are trying to change the world.
+
+[00:11:02]
+Connect to me and your, through your social network of choosing, and feel free to look me up on humbledmba.com. Thanks, guys.
+>> For more, please visit us at stanford.edu.
+

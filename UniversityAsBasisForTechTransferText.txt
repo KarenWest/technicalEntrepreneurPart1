@@ -1,0 +1,104 @@
+[00:00:00]
+[MUSIC]
+
+[00:00:04]
+>> Stanford University
+>> Hi, so, my name is Kirsten Leute, I am a Senior Licensing Associate at Stanford's Office of Technology Licensing. I've been with the office for 15 years now. And I'm going to be talking today about Stanford's Intellectual Property polices, how we do technology transfer at the university, and then talk a little bit about tech finder and finding technologies at Stanford that people in this course may want to work on.
+
+[00:00:38]
+So, there are many different ways that technology transfer happens from universities to industry. Obviously, one is through the students that come through the university. All of you are students at the university. Someday you may be working in industry. And so that things that you learn at the university are something that you may be taking with you to industry.
+
+[00:00:56]
+The publications that are produced by the students, faculty, research associates etcetera at the university also are one mechanism of technology transfer. Any seminars or conferences that you give about what what it that work is that you're doing at the university also are ways that technology transfer can happen.
+
+[00:01:16]
+Consulting. A lot of people at the University do like to consult with industries. That's another mechanism for transfer of technology. We also have Industrial sponsored research at the University where Industry sponsors certain projects at the University. And there are the Industrial Affiliate programs. Which are programs through which industry, usually has some sort of fees that they pay to, have a closer affiliation with certain sectors of the university.
+
+[00:01:48]
+And then there's the particular part I deal with which is intellectual property created at the university and licensing of that intellectual property. The Office of Technology Licensing. Our mission is to promote the transfer of Stanford technology for society's use and benefit, while generating unrestricted income to support research and education.
+
+[00:02:07]
+So it's a twofold mission as we see it. We want to have the technologies created at the university go out. Actually benefit people, make products that help people with their lives, and at the same time have income back to the university that's supporting further research which would then [INAUDIBLE] at the university.
+
+[00:02:29]
+This is kinda seen as a cycle [UNKNOWN]. Intellectual property is generated, we license that out to companies, the companies then develop products, from those products we then receive royalties. For the sales of those products, that, those royalties come in and we then use those royalties to s-, support further research, which hopefully will generate further IP.
+
+[00:02:50]
+The main type of intellectual property that we deal with in our office is patents. But we also have other types of IPs, such as copyrightable material in particular Software. But they can also be, other types of copyrightable material. Materials such as, educational works, etcetera. And also biological material.
+
+[00:03:10]
+We do a lot of licensing of biological material, which is often cell lines, monocolonial antibodies, [UNKNOWN], things like that. The ownership policy is something that we get a lot of questions about at the university. The ownership policy at Stanford is that the university takes title to all inventions created with more than incidental use of university resource.
+
+[00:03:32]
+The key phrase there obviously is incidental use. What does incidental use mean? And that is something that if there is question about what incidental use is you can come and ask us whether something would be considered incidental use. Or not. If you're using a computer here and there on campus, that would be considered incidental.
+
+[00:03:53]
+If you are using a lab full time, etc, that would be more than incidental use. But if you have any questions about that, do come and see us. My next slide is a list of notable inventions at Stanford. Our office was established 40, almost 42 years ago now, in 1970.
+
+[00:04:13]
+The first notable invention you'll see on our list is FM sound synthesis which was a Method of making computer generated music. This was used in a lot of the synthesizers particularly made by Yamaha in the 1980s. You'll see that there's a variety of inventions here in all different disciplines.
+
+[00:04:32]
+The next one is the recombinant DNA cloning technology from Stanley Cohen and Herbert Boyer. That was licensed to over 400 companies during the lifetime of that particular patent and was for a long time, the largest income producing and technology app at Stanford. You see in 1981, there are a number of different technologies, all in different areas.
+
+[00:04:56]
+Phycobiliproteins, obviously from the life sciences area, Fiber opic, Optic Amplifier, which was a long program that we had with Litton, now Northrop Grummon. To create these fiber optic amplifiers, and then MINOS, which is a software program that we still have a lot of licenses to, so a lot of different technologies just from that one year that have generated significant income for the university.
+
+[00:05:23]
+Our current largest money maker actually is this functional antibodies technology from [INAUDIBLE] and Sherri Morrison. That technology, the patent expires in 2015 so it's still generating income for the university. You'll see under 1990-1992 we have a number of technologies that were using the DSL standards. And our current largest money maker for the university actually was the page rank algorithm from Google, and that's because we had received equity in part through our license to Google for the page rank algorithm.
+
+[00:06:04]
+However the functional antibodies technology likely will surpass actually that income In the coming year or two. And you'll notice there's this large gap. So our last big invention notable big invention was from 1996, and that was the page rank algorithm. There's a large gap between that and now, and that's because most university technologies are vary nascent, they're very early stage, and it takes a long time for technologies to catch up perhaps to where industry is at.
+
+[00:06:35]
+So we're hoping to figure out what the next big thing is coming up and maybe some of you can help us with that. This next slide is about tells about how, what, what kind of our stream of inventions is and what happens with those inventions. We typically receive about eight in new invention disclosures per week.
+
+[00:06:56]
+So between 400 and 500 new invention disclosures per year. We start the filing of the patent applipat. We start the, the patent application process on about half of those. And then some of those we actually don't file as patent applications because they can be licensed otherwise as biologic material or software.
+
+[00:07:16]
+As I mentioned, copyrightable works, and so we don't actually usually pursue patenting on those types of inventions, because it's not necessarily needed. Other inventions we decide we're not going to pursue for other various reasons. There's not as much, as much commercial potential for them. There's already a lot of prior art out there.
+
+[00:07:35]
+They may be just a very small niche improvement or something like that. And we may never persue them for those particular reasons. And then at the end of the day we usually end up licensing between a fifth and a quarter of the invention disclosures that we receive. This next slide shows disclosure in licensing history of our office.
+
+[00:07:54]
+Again, as I mentioned our office was started in 1970. During that year we had 28 invention disclosures. We did a total of three licenses and we had a royalty income of $50,000 and a staff of two people. In 2010, our Disclosure numbers were at 457 for the year.
+
+[00:08:13]
+We did, about 90 licenses. We typically do these days between 80 and 100 licenses per year new licenses. And our royalty income has been around 65 million for the last 3 years or so. Our cumulative total now is approaching 9000 invention disclosures over 3000 licenses since we were founded in 1970.
+
+[00:08:36]
+And our royalty income Is approaching now $1.3, 1.4 billion. And our, this is our total of course over time. Our staff currently is about 35 people. The staff is consists of a number of licencing associates like myself. There are I think, nine of us. And then licensing liaisons who help especially with the marketing aspects of the technologies.
+
+[00:09:05]
+And then a number of other people in the office doing various functions such as accounting, database management, just really help keep our office going. The next section of my talk is going to be about actually where you can find out more information about our office, as well as technologies from our office.
+
+[00:09:26]
+So this is our website otl.stanford.edu, main portion of the website, you can actually find parts of the presentation that I just Have given right now. See that there's a For Inventors part right here, so. Inventor's part right here, and under that you can find invents information about disclosures.
+
+[00:09:51]
+There's also a part that says For Industry, and under that you can actually find our standard license agreement, so if you ever have an interest in just looking at what a license agreement would look like. That's under the resources part right here. And then down at the bottom you'll see Tech Finder and that was the next thing I was going to speak about where you can learn more about technologies that are available from Stanford for licensing.
+
+[00:10:11]
+And if you have an interest in doing a project on a technology from Stanford you can find that there. This is TechFinder. On TechFinder you can search for technologies in a lot of different ways. One is that you can go just to the basic search box up here at the top.
+
+[00:10:31]
+That you can just put in whatever you're interested in. And and find technologies that way. Another way that you can do it is you could look up keywords. There's a section right here that says All Keywords, and you could just see what kind of keywords there are. And if there's a particular type of keyword, you can just look under there and see what kind of technologies are listed.
+
+[00:10:52]
+But the way that I mainly recommend using TechFinder is by using the Advanced Search option. So if you click on Advanced Search you'll come to this page which shows you a different, a bunch of different boxes in which you can fill in with your, with your interests. In particular, you can look up things by different, things you might be interested in You could look things up by the inventor name.
+
+[00:11:17]
+If you have a particular researcher that you're interested in. You could also again putting your particular keywords here your keyword instead of having to look it up through the list, you could actually just look it up here and see if there's a particular invention. Another thing that I think is particularly good is instead of searching by keyword You can use the abstract application and [INAUDIBLE] contains, you know, something that you might be interested in.
+
+[00:11:43]
+That you might be able to look up something there. [INAUDIBLE] that are from lots of different areas. I have a golf swing invention right now. I have a lot of the life science inventions. Particularly therapeutics or diagnostics that could be of interesting, of interest. Sequencing types of inventions.
+
+[00:12:00]
+Also, a lot of software and also very practical types of inventions that may be more of a product type of technology that you may be interested in. Questions about inventions, think technologies that we may have, intellectual property policies at Stanford, please do feel free to contact us. You can contact me at the email address that was at the beginning of this presentation.
+
+[00:12:25]
+Or you can use the numbers that are otherwise on this presentation. Thank you.
+>> For more, please visit us at Stanford.edu.
+

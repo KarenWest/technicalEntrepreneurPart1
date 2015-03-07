@@ -1,0 +1,258 @@
+[00:00:00]
+[BLANK_AUDIO]
+
+[00:00:03]
+Its a great pleasure to have John Hennessy, the 10th president of Stanford University as our guest today. John joined the faculty of Stanford University in 1977, as an assistant professor of electrical engineering. Since then, he has served as the chair of the computer science department, dean of the school of engineering, the provost of Stanford University, and now the president.
+
+[00:00:32]
+As a pioneering in computer architecture he brought the attention of researchers to the architecture known as RISC, reduced instruction set computers. He was also pivotal in the technology transfer to the industry. He co-founded the MIPS computer systems now, MIPS Technologies. He is a member of National Academy of Sciences, National Academy of Engineering, has, has received several prestigious awards for his contribution to academic research.
+
+[00:01:10]
+He's also serving on the board of directors of several companies including Google and Cisco. Thank you very much for joining us this morning. So as you know, this interview is part of Stanford's online class on technology entrepreneurship. We have around 37,000 students.
+>> [LAUGH]
+>> From all around the world signed up.
+
+[00:01:41]
+They have formed teams and they are working on their start up, ideas. We really have a vibrant community of entrepreneurs, students and mentors who are working together and are giving each other feedback, and they're helping each other, to learn something and to create something. About a week ago, I, started a thread on the forum, and I asked the students to pose questions for you.
+
+[00:02:08]
+
+>> [LAUGH]
+>> We got a lot of them. We have students ask questions about technology transfer questions about online education, and online classes at the Stanford as well as, you know, personal questions about your hobbies
+>> [LAUGH]
+>> I've selected only a few of them and, you know, we can, yeah.
+
+[00:02:25]
+So one question, sort of, that came up several times was what's the recipe for creating successful and lasting companies from academic research?
+>> Well I think there's a difference between a successful, lasting company and even a successful start-up. Because to build a company that lasts the spirit of innovation needs to continue.
+
+[00:02:50]
+I often tell young potential entrepreneurs that all their first product will gain them is the ability to do a second product. And there are very few companies that can propel themselves to a level of success based only on their first product. You know, maybe Google is an example.
+
+[00:03:08]
+But there are not many of them, it's very rare. And, and you shouldn't bank on having the technology that is one. But I, I think it's that sense of innovation that willingness to obsolete your own products, to keep pushing forward, to be responsive to what the customer wants.
+
+[00:03:24]
+And if you look at some of the most, oh, oh, most of the successful companies I know go through some crisis at some point where they're really tested and, and whether or not they can overcome that challenge I think often determines whether they're successful in the long-term.
+>> So you know one question was how much does the research have to mature before you know it's ready to turn into a venture?
+
+[00:03:49]
+What's a good asset test?
+>> Yeah, it's a delicate balance. In my view, the demonstration of some kind of convincing prototype is usually enough and if you look at, if you look at what we did in MIPS, if you look at what we did in, what happened with Cisco, what happened with Yahoo, what happened with Google, they were essentially prototypes, for whom people were already interested in using them.
+
+[00:04:12]
+Now, to the varying degrees they have to be rebuild, right? a, and we had to rebuild everything at MIPS but we used the core conceptual ideas. You know, other companies, it can be a key insight that you can upset the world with some technology. In and on the case of Atheros for example, the technology that my colleague, Theresa Ming, developed was not the technology the company went after in the end.
+
+[00:04:36]
+But, there was a key insight from that technology and how to design things that enabled it to design cost effective wireless chip sets. So not too early, but not too late.
+>> Uh-huh.
+>> There's sort of feeling. W, when the next step in your project is, you need two, or five times, or ten times as many engineers to do the next step, that's a good time to think about spinning it out.
+
+[00:05:02]
+
+>> I see. So you actually, you mentioned Google, Yahoo Stanford has been tremendously successful in technology transfer. It has given birth to companies that have changed the world. Do we have a secret sauce? Can you share the secret?
+>> [LAUGH] It's in the water. I think, you know, it's a, it's a combination of things.
+
+[00:05:24]
+First of all, obviously great faculty, and great students. Who tend to do ground breaking research. Who are willing to do things and start on research problems without knowing the answer. So they tend to build companies that they build technologies which subsequently become companies that are revolutionary in the sense that they're not just an increment.
+
+[00:05:46]
+They're not just the next product in somebody's product space. They're really a whole new space. I think that's key. Obviously, we benefit a lot from the ecosystem and the relationship that Stanford has with the Valley, and obviously local venture capitalists. I think increasingly successful entrepreneurs who are willing to come in and be mentors to young people and young companies especially has become key to this key to this success.
+
+[00:06:17]
+So, there are lots of pieces to that, to that ecosystem, I think, that have made us successful. But, and the vast majority of our companies start with some new technology discovery. And it's not something somebody just thought of in their head at the spur of the moment, they started with fundamental research.
+
+[00:06:34]
+That's not to say that there aren't little niche companies that are terrific, little start ups that will probably be acquired in many cases rather than go public. But these companies really changed the landscape, come out of much more fundamental insights and research typically.
+>> So, if in another area you wanna create something similar.
+
+[00:06:52]
+What would be the, you know, advice to you know, say a group of young people in India? In China?
+>> Yeah.
+>> How do you?
+>> So I, I think, first of all, first of all, it begins with some fundamental new discovery, some new technology. Too many of the young people I see who want to start a company, know they want to start a company, they want to be an entrepreneur, a, a, but they don't really have something that's remarkably different.
+
+[00:07:20]
+They haven't thought about the barrier to entry. If you want to build a successful startup, it's not good enough to be just as good or a little better than an existing big company. You have to be a lot better cuz the weight of their bulk and their size and their salesforce are all against you, so you, you have to have something that's dramatic.
+
+[00:07:40]
+Think finding good mentors, sources of capital that are aligned with the long term interest of the university. Those all play a part and, and, and, and talent in the end, talent is such a big part of it. And I think in many areas one of the key problems that, that people face in trying to start companies, say have a great group of young technical people who are really terrific, energetic, ready to work hard.
+
+[00:08:08]
+It's getting that next level of management where the truth is experience, somebody who's done it, who knows the ropes, knows the path is vitally important and how you get a hold of that talent. If you look at Stanford's history, we've gotten that talent. You know, the early start-ups, Hewlett-Packard and Intel supplied talent for the next set, for Sun and Cisco and other companies and then they supplied the talent for the next set of start-ups, and that works as a chain to build up that talent.
+
+[00:08:37]
+It's a little harder to jump start, but finding people who've been successful even, even in a fairly modest way as an entrepreneur building something. That's a great way to get those kinds of people engaged.
+>> Yeah. So, from the point of view of, you know, sort of us in venture lab, we have a very diverse student body.
+
+[00:08:56]
+In terms of, you know, location, background, and gender. You know, we have women in Iran leading teams that are actually doing a great job. And the question is, when it comes to successful teams, how can we maintain this diversity? How can we make sure that, you know, our all around the world are successful and and diverse?
+
+[00:09:19]
+
+>> Yeah, I, I think it's a great question. I think ensuring that we have successful role models of all types and ensuring that people understand that, in a successful company, you wanna build a successful company, engineering matters a, a lot but it's not the only thing that matters by a long way.
+
+[00:09:38]
+And many start-ups don't understand that it's, it's great to have a world-class engineering team. But just like I have a great team in the rest of the areas, you've got to have people with a wide range of experiences who are ambitious to make a change and you've got to see it as a team.
+
+[00:09:55]
+It's gotta be a team that pulls together and takes advantage of that diversity to strengthen the team and strengthen the talent. When young companies get started and they're growing, there's so much opportunity for people to progress in the company and to pursue the pathway that matches up with their interests and their passion and their experience and, and, and their knowledge and that's what we should encourage.
+
+[00:10:21]
+I think the Valley has, is doing better these days in terms of getting a more diverse population in, in it's entrepreneurial culture. But for many years it struggled over that. It's always had a strong participation from people who've immigrated to the United States because, mostly cuz the university is a giant magnet for those people.
+
+[00:10:42]
+And they've buil, they've help built so many of this companies. I mean you just look at how many of these companies had at least one of the founders born outside the United States?
+>> Right.
+>> And, and it's, it's absolutely amazing. I think as we, as these companies grow and we find ways to mentor young people and think about the opportunities that, you know, entrepreneurs come from all walks of life.
+
+[00:11:03]
+I think that's gonna be the way to tackle this issue.
+>> I see great. We had also several students commenting about online classes. So I'm sure, there is a lot of, and not as surprised by our sample, we have a lot of enthusiasm about the online classes. so, you know, we have one student asking, you know, Stanford has, you know, started a revolution in online education throughout this, you know series of massive online classes and now other universities are taking steps so what's the Stanford plan to maintain its leadership in this area?
+
+[00:11:43]
+
+>> That's a good question. I think, you know, at this, this area is still very much in its experimental phase, I think. We all have to admit that we're doing experiments to see what works for students thinking about what will work long term for the university. and, and how to do that in an appropriate fashion, as well as how do you use this technology to improve traditional teaching, on campus, which, I think, for everybody has got to be something that we focus on.
+
+[00:12:11]
+You know, my feeling is things are going to change radically. Large lectures are certainly not the most effective way to teach classes anymore. They sometimes work when you have somebody who's up there who's really compelling, but a lot of times they don't work that well. So, I think we're going to move towards doing more and more things and using more online technology built inside the university and outside.
+
+[00:12:32]
+And I think it'll shift over time. What kinds of things people are willing to do, what kinds of recognition students might receive, how eventually there will be a cost model that makes sense for all this, and, because obviously there's some amount that a university can afford to do for free, but it obviously can't afford to do everything for free.
+
+[00:12:51]
+So we're in the, we're in that period where I think we try lots of things. We experiment with different ways of doing things. We're trying to push the envelope in terms of the kinds of classes. And this, this class is a perfect example of have, using the net to construct virtual teams across the network.
+
+[00:13:09]
+I think increasingly we want to be doing things that are different in asking how much of what we do at the University can be put online successfully? So, we'll go forward you know, we have a new round of experiments scheduled for this fall, and then I think while we deliberately think through what the university's long term strategy is.
+
+[00:13:30]
+I think something to a crystal clear. Online is the future of professional and continuing education. And, for the generation of students in school now, education is not a four-year or a five-year event. It's a lifetime engagement. And, so, I think we can see the ability to bring education to people in the workforce who are active, is going to become increasingly important.
+
+[00:13:54]
+And that should be high quality education. And that's, I think, an area where we can make a difference building on what we've done in engineering. But that's only the beginning as we begin to think about other models and other ways of doing things. There's a lot of interest in the universities.
+
+[00:14:08]
+I just came back from a meeting. Meeting with a hundred, several hundred chairs of computer science departments from around the country, and talking about how this revolution is ongoing. And as you said, everybody's rushing to do something. And then they've got to rush to figure out what they want to be doing in the long term.
+
+[00:14:26]
+And that, that I think is a strategy that takes some serious thinking.
+>> What are the challenges?
+>> I think the challenges, I think we've already seen some of the challenges play out in the early courses. When you have tens of thousands of students, the dynamic range in terms of students ability and preparation is really dramatic.
+
+[00:14:46]
+And when the courses are open there's no screening, there's no real assessment, and the result is, you see very low completion rates right now, and you see. And some of that's due to the fact that you're free and people aren't having to pay, right, and that may change when people have to pay.
+
+[00:15:01]
+But I think that follows on, that not only stretches the ability of the students, and one thing we've heard from a lot of students is the pace of some of the online courses at Stanford is just too fast. Just too fast for them, or, they don't have the adequate background.
+
+[00:15:14]
+That also attaches when you begin thinking about credentialing, or, some kind of assessment. You'll have the same problem because you know, if you look at our Stanford student base, it comes from a fairly small band of the upper-end of capability. If you now have a much larger class, which a much wider range of capability, giving an exam that challenges the top 25 percent while not crushing the 25, the lower, the lowest 25 percent is extremely difficult.
+
+[00:15:43]
+That's a challenge we're gonna have to work out. And I think different people will use different approaches here. It may be that there is a lot of syndication of content for example. And that assessment is built more locally by individual institutions to match up with content. I think the thing we can say is the role of faculty is certainly going to change in the future here.
+
+[00:16:06]
+It's going to change and that will make education more available around the world and hopefully it will also do something to dampen the price increases that have existed for higher education. Which is really a U.S. problem, U.S. and European problem. So we, we kind of see this technology as helping to address both problems.
+
+[00:16:25]
+Both the accessibility around the world of high quality education and the issue of cost in the U.S. and, and the developed world.
+>> Uh-huh. So, since you mentioned this is a European and, you know, a problem in the U.S., actually there is a lot of investments in China, India, Middle East in creating new campuses.
+
+[00:16:43]
+And so do you think this is money well spent or should they spend it on online education, or?
+>> Well I think given that, that how dramatically and quickly this technology is moving. The cultural shifts will take a little while obviously because culture change always takes longer than we suspect.
+
+[00:17:02]
+But technology always moves faster. So, once the culture change begins, I think it will go. You know, one of the challenges we have in many parts of the developing world, is they simply can't hire the faculty.
+>> Right.
+>> So, now the question is, is there a way to use online to help solve some of that problem and with all the growth that's occurred In China for example, just keeping up with faculty hiring and keeping quality up becomes very a very difficult, a very difficult challenge.
+
+[00:17:30]
+So, this will be, I suspect, part of the solution in China, that the elite institutions in China will prepare courses that will be used by other institutions in China, just as I think that will happen in the U.S., over time.
+>> And then, you know, and, question is, Part of the role of universities has been supporting research, for example, in Stanford.
+
+[00:17:57]
+Do you think online education is threatening that model or how should, you know, how is this going to evolve?
+>> Yeah, so, I view online education, actually, as an opportunity for lots of additional research. We have a bunch of large research problems. So right now, one would hope that online education can do something that's very hard in a traditional, let's say a larger class which is adapting the presentation to a range of student ability.
+
+[00:18:29]
+It's very hard if you're in a large lecture and, you know, there are a hundred people sitting in that lecture hall, and ten don't get it. It's very hard to reach those students. In a place like Stanford, we use teaching assistants and other ways to help out. Office hours.
+
+[00:18:41]
+But that can be a challenge. What about using online technology to adapt? What about using auto-diagnosis to say, here's something the student didn't understand, and if we ask him this question, we can figure out whether or not it's this thing he doesn't understand or this thing she doesn't understand and, and break it down.
+
+[00:18:59]
+Lots of work on assessment obviously is and how you do online grading here will become increasingly important. And I think there is great opportunities to advance that. And then finally, the students really learn online. How well do they learn online? And so far, all we have are anecdotes.
+
+[00:19:19]
+Because, we don't have good studies that look at a controlled situation with students with comparable ability: online, not online. So, there's going to need, there's going to be a lot of research. Will online change the role of faculty? Well, it may in some institutions. It may in some institutions, I think.
+
+[00:19:39]
+How the balance between research and teaching may shift over time, particularly with threats to research funding in the U.S. Federal Budget and other sources. That m, may create a pressure situation to either reduce research or have more teaching rather than research. I think for an institution like Stanford, we believe we are both a research and teaching institution because we have a very large graduate population.
+
+[00:20:09]
+And indeed in engineering we have twice as many graduate students as we have undergraduates. That's a core part of our, of our mission. At bigger institutions life is different and what role online will have there and the balance between research and teaching may shift over time.
+>> I see.
+
+[00:20:25]
+So, you think online education is here to stay?
+>> It's here to stay, for sure. This is a transformation. what, what the role of the massive online courses will be that's probably a little difficult to say. But, certainly, the ability to deliver education anywhere, anytime. Some of the cost advantages for some institutions that will be particularly critical, are all transformative things.
+
+[00:20:49]
+
+>> Uh-huh.
+>> So, you had this exception about this massive online class. So, you think the free model is not sustainable, or it's not? The free model is not sustainable as the primary way in which online technology will be used. I think there will be free models out there.
+
+[00:21:06]
+Universities will do them because it's good for the world, but there's a limited amount that universities can do because it's good for the world. So I think some of that will happen, just as it's happened for many years on iTunes for example. On iTunes U, you can go get lots of courses, right?
+
+[00:21:22]
+These will probably be a little more complete now because people will put some things in about assessment and things. How, how that will shift over time, that's, that's a little hard to say and how do you make an online model that, if it's massive, has to be very low-touch.
+
+[00:21:39]
+Work with the university that primarily does high-touch education. That, that's an open question I think. So, we have to do more experiments and try and figure that out.
+>> I see. Alright. Great. I, you know, as I said, you know, we have questions about, sort of one of us.
+
+[00:21:55]
+So what does the president of a university do? What's your, you know, day like?
+>> [LAUGH] The president of the university does whatever needs doing that nobody else is willing to do. So I think it's you know, my, my job probably is one-third external. Alumni government, all kinds of things representing the university away from campus, right, to our off campus constituencies.
+
+[00:22:28]
+Probably one third of it is on strategic, strategy, planning, long term initiatives, online now being, consuming a lot of that time. And probably one-third of it is general management. You know, we have, if you look at the senior leadership team in the university, between the deans, who will be on the academic side and the vice presidents and the vice provosts; that's around 30 or 35 people.
+
+[00:22:56]
+As a result, you, between the provost and the president, you know, we have a lot of people to worry about, and to help lead. And there's always somebody who's, we're always having open positions, so we're always looking for new talent to forge in there. But there's a lot of general management sorts of things that I do, hand in hand with the provost actually.
+
+[00:23:13]
+So he's sort of the internal person, and I do a lot of the external.
+>> So, what does your typical day look like?
+>> So, it depends. Summer is obviously different. But say during the academic year, which is probably more representative. Typically I get up between 5 and 5:30 in the morning and I usually workout, read two newspapers, make one pass through my email and then, usually I have my first meeting somewhere between 8 and 8:30.
+
+[00:23:37]
+Staff meetings one or two days a week where I'll meet with my direct reports. Just to kind of share what's going on. But also bounce things off of people's minds. Typically a set of one on ones. Often there'll be a visitor. Either from government, another university, or important alumni and supporters on campus.
+
+[00:24:00]
+I'll be doing that, generally. I'm appearing at events anywhere from two to three nights on average sometimes. But, sometimes, five or six nights in a row. And they'll be a mix of appearing, doing a welcome address or hosting people for dinner at the President's house. so, it's a typical mix like that you know, and all over the map.
+
+[00:24:26]
+I'll be going to visit student dorms. So I, during the academic year, I go to visit student dorms about once a week and just talk with the students and talk to them about the university and see what's on their mind. So a whole range of different kinds of things.
+
+[00:24:39]
+Trustee meetings, which happen five times a year, which are big multi-day events. Where we go over the long term issues in the university and where we're going.
+>> So that sounds like a lot of work.
+>> [LAUGH] It is a lot of work.
+>> Yeah, on behalf of.
+
+[00:24:54]
+
+>> Yeah, I travel about one week a month typically, and that's, you know, it's typically Washington, or where, or major alumni center, New York, Los Angeles Europe, Asia. So.
+>> So on, on behalf of the students and faculty offline and online.
+>> [LAUGH]
+>> Thank you.
+>> And thank you.
+
+[00:25:14]
+
+>> And thank you very much for
+

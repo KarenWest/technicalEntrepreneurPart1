@@ -1,0 +1,118 @@
+[00:00:00]
+[MUSIC]
+
+[00:00:04]
+>> Stanford University.
+>> In this video, I'm going to talk in more detail about the customer development and lean start up process. Last time we talked about how entrepreneurship is a discovery process, and we talked about looking for a methodology that could take us from the unknowns of what should the product be, who should the customers be, what market are we addressing, to known answers to these problems and questions.
+
+[00:00:33]
+So we talked about using a version of the scientific method that starts with the problem, forms a hypothesis. Figures out some experiment to run, tests that hypothesis, and then uses that knowledge to then inform whether to slightly modify or change the hypothesis. Or whether we have this piece of the model confirmed and can move on to testing some other piece of the business model.
+
+[00:00:58]
+[SOUND] And so we talked about how entrepreneurship is a search process and a learning process where you want to discover facts that you didn't necessarily already know and use those to inform the business model. And so how's this, how's this different? What's the traditional product development model? Traditional product development model comes out of larger companies that are primarily in known markets and have known products.
+
+[00:01:27]
+And so historically, most entrepreneurs tended to have a lot of work experience in large companies and a lot of background industry knowledge before beginning, and so, they tended to follow this process which looked more like this. That started with a set of requirements for the product that were generally developed internally in the company.
+
+[00:01:49]
+Those are then used to create the design or the architecture of the software or the product. Engineers and programmers would then spend a lot of time developing and building this product, and it would then be put into a phase of testing, delivery and feedback. And so, this works out alright, if you are in a known market, and in a fairly mature, stable industry, but if you are in a more dynamic, rapidly changing industry, then you can't really wait until the very end of this process, to get all of this customer feedback.
+
+[00:02:27]
+After you've already sunk the cost of building and developing the product, and used up all that time. This traditional product development model is known as the waterfall. What, what we wanna change this to is something that's more agile, that's quicker, that allows us to learn at a faster pace and for cheaper.
+
+[00:02:47]
+So, this is what we wanna think about with the business model. With each of these pieces, whether it be the product development, or whether it be figuring out who the customers are, or who the key partners, or what the revenue model should be, we need some process that's going to allow us to discover these things.
+
+[00:03:07]
+More rapidly and a, at a cheaper price. So, last time I left you with the questions of looking at your business model and thinking about where the risk is and where you should begin trying to reduce it. And so, I told you to think about your own venture and to think through which aspects of it are the most uncertain where you might want to focus your initial experiments and tests.
+
+[00:03:34]
+And so, we talked about the scientific methodology that began with asking a question and then move to doing some background research and formulating a hypothesis. So, how do we move this into the startup context? So, the first question you might be asking yourself if you're thinking about how to apply this is, how do you do background research in a startup context?
+
+[00:03:58]
+There are no existing journals or papers that you can go and read as scientists might. So do you look on Google are the answers in books? Probably not. In, in industries with knowledge about customers and products, these things aren't usually recorded and written down in the usual ways.
+
+[00:04:18]
+And so, the facts that you need are outside of your building. You can't get them in the library or by simply thinking through these things. You have to actually go out there and talk to customers and identify who the key industry veterans are and see if you can get them as mentors.
+
+[00:04:33]
+You want to talk to potential partners and see what they think about your plans and ideas, because all of this has to fit together. And so, in this way, we can go about starting to design some experiments. Once you've done a bit of this background research, then you can use these industry veterans and these mentors as a kind of equivalent to the peer review process in science.
+
+[00:04:56]
+And so they're gonna keep you honest. They're gonna help you design the experiments and interpret the results of them. [SOUND] And so, I wanna emphasize again, this key process of realizing that you had a failed experiment or false hypothesis and trying again with a new experiment and a different hypothesis, what we call pivoting.
+
+[00:05:21]
+So, I want to play a brief video where Steve Blank is talking about the importance of developing this kind of deep customer understanding. And so this is Steve Blank, a retired serial entrepreneur and let's just listen to a couple of minutes of a video that was recorded here at Stanford.
+
+[00:05:45]
+
+>> The most radical thing I make companies do is actually sell their product. Now where a product you could decide you're going for eyeballs, for users, you could go for ads, or you could actually decide to do something radical and actually charge money for something. Or for a physical product, that's almost a given.
+
+[00:06:08]
+Before we do anything, let's see if the founders could go out, not a sales team, but the founders, could go out and generate some revenue with this company. That's what I call customer validation. I want you guys to actually sell something. How many of you were in engineering?
+
+[00:06:26]
+Okay, alright. How many of you have actually sold something? Okay. Not just a pencil, not Girl Scout cookies not you know Tina asked me earlier. What was the best advice I, I think I've ever gotten or given. And that was, even if you're in engineering, if you decide you're going to be part of an entrepreneurial start up, if you've never been out trying to sell your idea or be part of a sales team, you will never, ever be a great entrepreneur, ever.
+
+[00:07:05]
+I really wanna get all of you angry, who are great engineers. [SOUND] Great architect, great. That's great. But you'll always be dependent about, on someone else. Great engineers understand what customers need. I don't mean you need to, you know, learn how to go to dinner and drink and whatever, but you really do need to understand how people buy, why they buy, how they process information, and how they think about your product and also, how they think about the problem you think they have.
+
+[00:07:40]
+
+>> You wanna think about how to design your experiments. How to test these hypotheses that you're developing about, about the pieces of the business model. So, the first thing is, you wanna consider the ordering. You wanna go about this, and prioritize these experiments, in such a way that you do the lowest cost, quickest way, to verify or falsify your hypothesis.
+
+[00:08:04]
+And so, this could be building the front end to the website and showing it to a bunch of people. It could be buying Google AdWords and seeing how many people click on your idea for a new product. It could be asking customers for money in a couple of different ways, maybe one model that's a subscription, one model that's a one time fee.
+
+[00:08:24]
+And in this way you test out what type of revenue model might work for the business. But you want to start with the highest risk areas and start with the cheapest and quickest experiments that you can run. So, why is this so difficult? I'm giving you a process and this process has been taught around Stanford for awhile now.
+
+[00:08:47]
+Why is this so hard? Partly this is difficult because of just pure innate psychology. As we spoke about last time, even in science, the actual scientific method often gets substituted for the actual method, which looks a bit different. Because people are in a rush to try and produce results, to try and prove a particular hypothesis that they desperately want to be true.
+
+[00:09:18]
+And all of these things are even more true in an entrepreneurial context. When you're running out of money and you need to develop a product. You're going to be in a rush, in a hurry, to move through this process and so, and that's going to start making you want to cut corners in the process.
+
+[00:09:38]
+This is also hard because entrepreneurship is essentially a balancing act. And what do I mean by that? How is it a balancing act? It requires being both flexible and being persistent, and rigid. You have to be simultaneously optimistic that this can work. And also paranoid about all the things that can go wrong.
+
+[00:09:59]
+And so, the very things that push people to become entrepreneurs, because they're optimistic about a new idea or because they like a more dynamic, flexible environment. Also tend to push entrepreneurs to fail, because if you're too over-optimistic, if you're too far on this end of things, then you're not going to realistically look at the feedback that you're getting from customers.
+
+[00:10:28]
+You're not going to think critically about where you might be wrong. Or if you're too flexible, then you may go from one idea to the next too quickly and never stay in one area long enough to really develop anything substantial. The other hand, if you're too pessimistic, you never get started in entrepreneurship in the first place.
+
+[00:10:48]
+You have to be persistent. Because entrepreneurship is a lot of ups and downs and struggles. But if you're too persistent, you stick with the wrong idea for too long before moving to something that will work. So, entrepreneurship is a real balancing act where somehow you have to wind up psychologically in the middle here, between being too optimistic and too pessimistic, between being too flexible and too persistent.
+
+[00:11:15]
+So, we know this from research as well. There was a study done of over 200 entrepreneurs. And this predicted the, both the revenue growth and the employment growth of the venture, as a performance metric. And so, we have some control variables and we have some main effects, and so this paper was trying to test the effects of optimism, primarily on venture performance.
+
+[00:11:42]
+And we see overall that optimism is negatively related to venture performance. So if you're too over optimistic, if you're too over confident that this is gonna work, you tend to have lower performance. They also looked at the moderating effects of experience as an entrepreneur, and how dynamic the environment was.
+
+[00:12:04]
+Is this a highly dynamic new industry, or is this a mature stable industry? So, you might imagine in a more dynamic industry, things are more uncertain. And so, we see the main effects are that experienced entrepreneurs tend to do better. So it's good to have a serial entrepreneur on your team and entrepreneurs tend to do better in more dynamic environment.
+
+[00:12:27]
+Startups thrive in an area that is new and uncertain whereas large companies thrive in an area that is more mature and stable. The interesting thing is to look at the interaction effects. So, for the experienced entrepreneur, the more optimistic you are, the more negative the performance. So this effect is exacerbated of over optimism.
+
+[00:12:48]
+If you become too over confident as a serial entrepreneur. And also, in a more dynamic, a more uncertain, a more turbulent environment, being more optimistic also hurts you even more. So, if the environment is very dynamic, it's better to be a bit more paranoid, a bit more on the look out for what could go wrong.
+
+[00:13:07]
+And then experience helps even more in a dynamic environment. Experience helps you, but the more turbulent things are, the more that experience comes in handy. The inter, really interesting thing is the three-way interaction. If you have an experienced entrepreneur in a dynamic environment, then being more optimistic hurts your performance.
+
+[00:13:30]
+And so, this is at least some evidence that being too over optimistic in a venture hurts you. And it can help to be slightly paranoid, because you can better interpret the results of these experiments and see where you need to change course. So, the second reason why this is difficult is what tends to happen when the experiment fails, when the hypothesis is shown to be untrue or at least partially true.
+
+[00:13:59]
+One common reaction is for the entrepreneur to say that customer didn't get it, let's find a different one. They just don't understand what we're doing. That's not our target market. And so, you can continue on like this. On the other hand, if the experiment fails, it's more difficult to say, oh wait, something was wrong in our hypothesis.
+
+[00:14:21]
+But we didn't fail, we learned something. It's more difficult to be persistent in that you want to keep moving forward. But also be flexible enough that you're willing to slightly change direction when you see something isn't working. So holding these two ideas in your head at the same time, whether it be flexibility and persistence, or optimism and paranoia, are the key difficulty for entrepreneurs and why this process is so hard.
+
+[00:14:49]
+That's it for this video.
+>> For more, please visit us at stanford.edu.
+

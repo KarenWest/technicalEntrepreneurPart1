@@ -1,0 +1,178 @@
+[00:00:00]
+[SOUND]
+Stanford University.
+>> Hello, in this video, I'm going to continue the series talking about customer development and lean start-ups. So in the last video, I spoke a bit about why this is so difficult. That part of it is the psychology of the entrepreneur. So, we spoke about how entrepreneurship is a balancing act, where you have to balance between being too optimistic versus too pessimistic.
+
+[00:00:37]
+You have to balance between being flexible and being persistent. In today's video, I want to talk about 3 things. The first is some critiques of the lean start up, or customer development model. The second is the debate about lean versus fat startups, and the third is a little bit about some metrics that you want to keep track of in a startup venture.
+
+[00:01:02]
+So let's start out with some critiques. I've been talking about the model of customer development and lean startups, what are some possible criticisms, or some alternative views? In some ways, the idea that you have to listen to and respond to feedback from customers is almost obvious advice. But we also have this famous quote that's attributed to Henry Ford where he said if I had asked people what they wanted, they would have said faster horses.
+
+[00:01:32]
+So apparently, Henry Ford never actually said this but nonetheless, there is this idea that customers don't necessarily know or can't necessarily think of these breakthrough next generation innovations. And so the other argument that's given is the argument from Apple and Steve Jobs that Steve Jobs was this brilliant visionary who would never assemble a group of customers for a customer feedback session or elicit ideas from them.
+
+[00:02:04]
+Argument is that again radical new products. In, in the early days, it was forecast that we might need perhaps 10 computers. And so when you have something as radically new as the first desktop computer, it could be difficult for people to imagine how they might use it, and, and thus, to give these kinds of ideas to customers.
+
+[00:02:26]
+There's this idea that perhaps rather than listening too closely to customers, that it might be good to actually have a vision, to actually, not necessarily listen to customers, but trust your gut instinct. And there might be some truth to this. Certainly I would tell you that if you have an idea that you believe in strongly, and there's some reason why you've listened to customer, potential customer feedback, and believe that the customer is wrong, that the idea has merit, then you should consider pursuing this and still moving forward.
+
+[00:03:02]
+But only once you've really considered why it is that you're not getting the type of positive feedback from customers that you think you should and, and why this feedback is wrong. Not many people are Steve Jobs. And so if you're going to just trust your gut instinct, you have to be really sure about it.
+
+[00:03:24]
+To have several notions mixed up together one is this idea of rapid iteration that you have to respond to feedback from the market and rapidly iterate. Another idea here which I'll talk more about in a minute is the lean start up idea that you have to raise the minimal amount of funding, and that you shouldn't spend too much cash, should be very conservative about what you spend money on, how much money you raise.
+
+[00:03:51]
+And this has it's own merits, but also some downsides I'll talk about in a second. The next notion is this idea of hypothesis testing, that in a startup you're designing experiments and this can be criticized for the lack of kind of a bold conviction. Sometimes in a start-up rather than spending all of this time going through experiments and testing your hypotheses, you just have to move forward, and you have to quickly design the product and you can't spend too much time worrying about, do I have the right product market fit?
+
+[00:04:25]
+Is my revenue model the right one? Sometimes you have to act boldly. And similarly on rapid iteration, releasing a product too early, releasing a beta version, can potentially harm your reputation. And so there's a reason why we tend to hold back until the product is more perfected to get feedback.
+
+[00:04:46]
+So these are arguments that you'll hear on the other side, and justifiably so. Truth in all of these arguments and these are things that need to be balanced carefully with customer development or lean start up model. Next is this notion of the, of what it means to be lean, and doing a lean start up versus a fat start up.
+
+[00:05:12]
+So there are advantages and disadvantages to each. Some of the advantages of being lean which basically means raising only the minimum amount of capital that you need and trying to bootstrap and get by on just the bare minimum investment obviously, this offers a greater return on investment. If you don't have to raise as much money, if you don't have to invest enough, then you'll wind up getting a greater return if successful.
+
+[00:05:39]
+You also lose less equity to investors. Each time you raise money, you have to give up a portion of your company. And this also, and perhaps this is the most compelling reason, allows you to contain more control and more flexibility to change direction. Once you've raised money from venture capital investors, particularly if it's a large amount of money, it can become more difficult to change direction if you need to.
+
+[00:06:04]
+And so, you, you lose some of the flexibility that start ups might need when they're still in a process of finding their business model. On the other hand, we shouldn't discount the advantages of being fat, of raising sufficient capital. Some types of opportunities may require more money. It may require spending more money to get top engineers and top talent.
+
+[00:06:30]
+You certainly don't want to save money by going with second rate talent in your startup. It also provides you some cushion if there's a downturn. If you've been raising the minimum possible amount of money And there's a recession, then it can become much more difficult to raise additional funding.
+
+[00:06:48]
+And so if you allow yourself to raise more money than you actually need, this gives you some cushion in case there's a recession, in case there's a large competitor who moves into your space, who you suddenly have to start competing with and expending more cash. And so I want to show you one short video clip that's talking about this debate.
+
+[00:07:10]
+So this is Mark Schuster and he's talking a little bit about this debate be, about lean versus fat startups. [SOUND] Mark Suster says that a lean startup shouldn't raise that much money and then eventually, if it hits product market, it should become fat. I said that, it's true.
+
+[00:07:40]
+Eric Reese, one of the most beloved young speakers, lecturers in Silicon Valley, someone who's reading I write I read and enjoy, wrote a response which I found curious. He said, Mark misunderstood the meaning of the term lean startup. Luckily there's an internet, so I pulled up the definition of lean.
+
+[00:08:04]
+Without much flesh, or fat, not plump. Of edible meat, contiaining little or no fat, lacking in richness, full. Spare, economical and yet he says the lean start-up is about moving fast. The fast start-up is about moving fast. The rapid start-up is about moving fast. The quick start-up, not the lean start-up.
+
+[00:08:29]
+And okay, it's not my movement. I'll let you have your movement. But I believe in lean start-up. And then something changes. You raised a little bit of money, you work on your product. You don't do what I did which is spend too much money, hire a bunch of developers, before you figured it all out what I often tell people is, you should be flipping hamburgers if you're gonna run a hamburger chain.
+
+[00:08:55]
+And that means that you're doing customer support, you're answering phone calls, you're going on sales calls. You're involved in product management, you do user testing. Raising too much capital too quickly before there's a product market fit makes this very hard to do. So, I sort of agree with what Ben Horowitz said which is the fat start-out, and it's okay, later in life, obviously I would think this to get a bit fat and what I mean is; if you become four-square, you got 2 choices.
+
+[00:09:31]
+You can sell and that $100 million route come for most people, that Yahoo reportedly had offered would have been quite nice. But the founders had already had one exit, and I think they really wanted to change the world, and I think that's great. But if you're gonna change the world and you wake up the sleeping lions of Silicon Valley to this opportunity, you'd better get fat pretty quickly.
+
+[00:09:54]
+Because you've got Yelp in town here, and those guys are smart and move fast, and you've obviously got Facebook in town here, and those guys are very smart and move very fast. So if you're gonna compete with people in what people call winner take most markets, you need to be fat.
+
+[00:10:11]
+So we see Groupon and LivingSocial who have raised money and are big and are growing, I don't think number 5, 6, 7, 8 are going to be that relevant in the long run. So there are times where fat is okay.
+>> And so you heard Mark Schuster, a venture capitalist here in Silicon Valley talking about how you should stay lean until you've reached what he called product market fit.
+
+[00:10:37]
+And then you should become fat and raise more capital to start scaling up. And that's what we want to start talking about. So how would you know when you've reached product market fit? The point at which you've developed a product that fits the market and you're ready to start scaling up the venture?
+
+[00:10:53]
+You need to start paying attention to certain start up metrics. So what are these metrics for start ups? In a large company, the relevant metrics that you might look at are things like the cash flow statement, income, profit-loss statement. But as you can imagine for a startup, most of these things are going to be 0.
+
+[00:11:14]
+You have very little revenue, you know you're making losses. How do you tell if you are actually making progress, if the time has come to raise additional capital and begin building out the organization. This is a different set of metrics for a startup and you will have to think through your own venture in the industry that you're in to know exactly which set is right for you.
+
+[00:11:37]
+But these things might be things that are characteristics of your user base. Things like the number of registrations, or number of activations, what percentage of people who land on your website are actually signing up or downloading the software? How many of these customers do you retain for at least 30 days or for at least 90 days?
+
+[00:11:59]
+How many of them switch over to become paying customers? Or you might look at other types of financials. Revenue certainly is a relevant one. The margins that you're making, which is your profit margin, the amount of revenue minus the cost for each sale. Your, the level of cash that you have is certainly key in a startup.
+
+[00:12:22]
+You can't survive if you're running out of cash. Your burn rate, how much cash are you burning per month. Or there might be customer acquisition metrics. Things like, what does it cost you to acquire a new customer? What are your advertising expenses? What's your viral acquisition ratio? So for each customer that you get, how many other customers do they refer to the site who wind up coming and signing up?
+
+[00:12:51]
+You an also do things like web metrics. The total number of unique visitors or page views. What's the present value or the net present value of, of acquiring a customer. What's the lifetime value of having that customer and retaining them? These are the types of metrics that are more important for a start-up venture and that we'll talk more about as we go forward in the course.
+
+[00:13:14]
+Finally, I wanna play one more video clip for you, which comes from a debate between 2 VCs about lean versus fat start up model. [SOUND]
+>> If it helps you being lean to achieve that goal and that's great. But if not, if it's better to deploy a lot of capital to achieve that goal, then by all means embrace your fatness.
+
+[00:13:41]
+Getting into the specifics, let me restate Fred's definition of lean start up, which is basically, don't raise a boat load of cash until you've both achieved product-market fit and you are getting real traction in the market, and by real traction, what Fred meant was people are buying or using your product in droves.
+
+[00:14:03]
+And as they said this is a good tactic, but unfortunately it's been elevated by many people in the venture capital community and the entrepreneurial community from a tactic to a complete and comprehensive operational theory. And as an operational theory, it has quite a few holes. Let me point out 3.
+
+[00:14:23]
+First, it presumes that you actually know when you've achieved product market fit, and this is often quite unobvious. For example, Apple's iPod did not sell a million units until after 3 years until 2 years after it was launched. Compare this with iPhone, which sold a million units in its first 3 days.
+
+[00:14:42]
+So at what point did the iPad the iPod have product-market fit, and at what point should have Apple invested in the Mini and the Nano? By lean startup theory, maybe not for awhile, but that would have been incorrect. Now, lean start up theory does explain what to do with the iPhone once they sold a million units in 3 days, but that's also not very interesting.
+
+[00:15:03]
+The second problem with it is, the lean start up theory presumes, [COUGH] that once you have product market fit, you can't lose it. And this is also not the case. For example, at one of the previous start ups that I was at, Netscape, we had product market fit on the browser but lost it when Microsoft eliminated the market for browser and we were $250 million in revenue at that time.
+
+[00:15:27]
+They eliminated the market by basically saying, it was part of the OS and removing all of the money from the market. So at that point, we had to regain product market fit and we didn't have the luxury of taking the time to do it and the lean start-up way and in fact, we built the silver, the server product line from 0 to $600 million in 2 years by applying what might be referred to as a fat methodology.
+
+[00:15:50]
+And then the third problem is the Lean start up theory implies that there, or presumes there is no competition. And so what happens if prior to achieving product market fit, prior to building the product that everybody wants, and are buying it in droves. Even though you believe you have a theory that's gonna work, you believe the market is very large, a very scary competitor emerges.
+
+[00:16:13]
+VMware had this issue. And their answer was to double head count every single year to make sure that they took the market ahead of open source competitors like Zen and big scary competitors like Microsoft and that worked well. So basically as an operational theory the lean start up method doesn't work very well.
+
+[00:16:35]
+So why do I even care about this at all and why did I write the post? Well, for 2 reasons - One, entrepreneurs are confused and a lot of them are harming their companies by avoiding things that cost money when they should spend money on them, like building a sales force for example.
+
+[00:16:51]
+But more importantly, we see entrepreneurs avoiding big ideas. And everyday somebody comes into our office, every week, and somebody from Harvard or MIT or Stanford, a brilliant computer scientist and pitches us on a very small idea. They want to do ad targeting optimization and this is tragic. Sorry, that was supposed to be funny.
+
+[00:17:16]
+But it is tragic. Some of you are probably building ad targeting optimization companies right now. But if you look at, if the inventors of yesteryear took being lean as seriously as entrepreneurs do today instead of airplanes and telephones and automobiles, we would have pantyhose that fit exactly right, and were targeted at our own figures.
+
+[00:17:38]
+So in conclusion, building a company is really hard, you might as well build something important and when you are going to build something important, keep focused on that goal and if being lean is right way to reach the goal, great but if it requires being fat, remember the big is beautiful.
+
+[00:17:55]
+
+>> Okay Fred. So I want to address this question from both the entrepreneurs' perspective and also the investors' perspective. I think from the entrepreneurs' perspective what you want, the equation you want to solve for is the expected value of exit for you personally, the entrepreneur. I think that equation looks like something like.
+
+[00:18:17]
+The probability of a meaningful exit times the amount of ownership you'll have at exit times the value of the expected exit. So let's just leave the value of the expected exit the same for this argument and focus on the 2 variables that really matter here, which is the probability of a successful exit and the ownership that you will have at exit.
+
+[00:18:43]
+And I don't think that you can double the probability of an expected exit by doubling the amount of cash that you raise, and the reason is that the probability of a successful exist is gonna be a function of many things. The most common are the quality of the idea, the quality of the product, the quality of the team, the amount of capital resources you have, the market and how it develops, and luck.
+
+[00:19:11]
+And while cash is one of those variables, it's not the only variable. And so if you double the amount of cash you have, you don't necessarily double the probability of success. On the other hand, if you double the amount of cash that you raise at any point along the way at a set valuation, you double the amount of dilution.
+
+[00:19:30]
+So if you just look at that formula, you've optimized your probability to success. And, and in doing so, increasing the amount of delusion you take, you probably are going to reduce the expected value of your personal exit. You may increase the success of the company and you may increase the overall value to society which then points to, and I think those are very good points, but for you as an entrepreneur, this I think is a bad idea.
+
+[00:20:00]
+Now let's talk about it from the investor's perspective. Investors are really solving for 2 things. They're solving for the highest return on investment, and that's dollars out divided by dollars in. And they're solving for mitigating as much of the risk in the investment as they possibly can. And the way that you do that as an investor, is you put a very small amount of capital in when the risk is very high.
+
+[00:20:24]
+And as the opportunity develops over time, you increase the amount of capital that you have at risk as the risk get mitigated and the opportunities that are scaling into their markets the way you want. That's the classic, early-stage venture capital model. You start with a quarter or a half a million dollar seed then you follow with a million to first [UNKNOWN] venture round.
+
+[00:20:49]
+Then maybe 3 to 5 million, and then as the opportunity scales, 5, 10, 15, 20 million dollars. And that allows you to have a lot of capital in, and a lot of capital out, but also minimizing the amount of risk along the way. So for both the entrepreneurs perspective and the investors perspective, staying lean in the beginning, and keeping the amount of dollars at risk, and the amount of dilution as small as possible along the way until the valuation reaches a point where you can raise a lot of money, and minimize your dilution is the absolute best way to maximize the expected value, the exit for the entrepreneur and is also the way to maximize the, return on investment and risk mitigation for the investor.
+
+[00:21:35]
+And that's why the venture capital model worked so well over the past 30 or 40 years, is because the alignment when done correctly between the entrepreneur and the investor is very, very high. And that allows the entrepreneur and the investors, the early stage investors to act as true partners in building that business.
+
+[00:21:55]
+So while I agree with Ben that there are times when you need to get fat, I think early on it's a very bad idea and the lean model works very well in the first 2, 3 maybe even 4 years of a company's existence. And you wanna stay lean for as long as you possibly can.
+
+[00:22:14]
+
+>> We saw there some of the debate between the lean versus fat start up models and we will talk more about financing and fundraising in future videos, but I wanted to at least introduce some of these ideas and some of the debate around them. Thank you very much.
+
+[00:22:33]
+
+>> For more, please visit us at stanford.edu.
+
+[00:22:36]
+[BLANK_AUDIO]
+
